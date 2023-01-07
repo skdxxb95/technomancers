@@ -10,8 +10,10 @@ img {
 }
 
 .introduction {
+    width: var(--container-width-lg);
+    margin: 4rem auto;
     display: grid;
-    grid-template-columns: 30% 60%;
+    grid-template-columns: 25% 65%;
     gap: 10%;
 }
 
@@ -23,4 +25,3 @@ img {
     border-radius: 1rem;
     border-color: var(--color-primary);
 }
-
