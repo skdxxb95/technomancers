@@ -1,0 +1,11 @@
+img {
+    width: 30%;
+    height: auto;
+    padding: 3rem;
+}
+
+.main-image {
+    margin: 3rem;
+    border: 3rem;
+    border-radius: 3rem;
+}

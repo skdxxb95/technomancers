@@ -1,9 +1,12 @@
 import React from 'react'
 import './home.css'
+import BEST from '../../assets/Best.PNG'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div className="main-image">
+      <img src={BEST}></img>
+    </div>
   )
 }
 
