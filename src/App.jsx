@@ -18,11 +18,11 @@ const App = () => {
       <HashRouter>
         <Routes>
           <Route exact path ="/technomancers" element={<Home />}></Route>
-          <Route path ="/teamprofile" element={<TeamProfile />}></Route>
-          <Route path ="/industrydata" element={<IndustryData />}></Route>
-          <Route path ="/itwork" element={<ITWork />}></Route>
-          <Route path ="/ittechnologies" element={<ITTechnologies />}></Route>
-          <Route path ="/projectidea" element={<ProjectIdea />}></Route>
+          <Route path ="/technomancers/teamprofile" element={<TeamProfile />}></Route>
+          <Route path ="/technomancers/industrydata" element={<IndustryData />}></Route>
+          <Route path ="/technomancers/itwork" element={<ITWork />}></Route>
+          <Route path ="/technomancers/ittechnologies" element={<ITTechnologies />}></Route>
+          <Route path ="/technomancers/projectidea" element={<ProjectIdea />}></Route>
         </Routes>
       </HashRouter>
     </div>
