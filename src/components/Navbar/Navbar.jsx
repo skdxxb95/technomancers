@@ -7,22 +7,22 @@ const Navbar = () => {
       <a href="/" className="site-title">Technomancers</a>
       <ul>
         <li className="active">
-          <a href="/technomancers">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
-          <a href="/technomancers/teamprofile">Team Profile</a>
+          <a href="/teamprofile">Team Profile</a>
         </li>
         <li>  
-          <a href="/technomancers/industrydata">Industry Data</a>
+          <a href="/industrydata">Industry Data</a>
         </li>
         <li>  
-          <a href="/technomancers/itwork">IT Work</a>
+          <a href="/itwork">IT Work</a>
         </li>
         <li>  
-          <a href="/technomancers/ittechnologies">IT Technologies</a>
+          <a href="/ittechnologies">IT Technologies</a>
         </li>
         <li>
-          <a href="/technomancers/projectidea">Project Idea</a>
+          <a href="/projectidea">Project Idea</a>
         </li>
       </ul>
     </nav>
