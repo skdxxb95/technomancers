@@ -11,7 +11,7 @@ import Navbar from './components/Navbar/Navbar'
 const App = () => {
   let Component
   switch (window.location.pathname) {
-    case "/":
+    case "/technomancers":
       Component = Home
       break
     case "/teamprofile":
