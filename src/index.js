@@ -1,22 +1,30 @@
-import ReactDOM from 'react-dom'
-import App from './App'
+import React from "react";
+import ReactDOM from "react-dom/client"
 import {
-    createBrowserRouter,
-    RouterProvider,
-    Route,
-} from "react-router-dom"
-import './index.css'
-import PersonalInfo from './pages/PersonalInfo'
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Link,
+} from "react-router-dom";
+import "./index.css";
+import PersonalInfo from "./pages/PersonalInfo"
 
 const router = createBrowserRouter([
-    {
-        path: "/",
-        element: <App/>,
-    },
-    {
-        path: "personalinfo",
-        element: <PersonalInfo/>,
-    },
+  {
+    path: "/",
+    element: (
+        <div>
+            <h1>Hello world!</h1>
+            <Link to="personalinfo">Personal Information</Link>
+        </div>
+    ),
+  },
+  {
+    path: "personalinfo",
+    element: <PersonalInfo />,
+  },
 ]);
 
-ReactDOM.render(<RouterProvider router={router}/>, document.querySelector("#root"))
+ReactDOM.createRoot(document.getElementById("root")).render(
+    <RouterProvider router={router} />
+);

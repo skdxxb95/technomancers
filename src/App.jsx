@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
         <div>Home Page</div>
-        <img src={Best} alt="Technomancers"></img>
+        <img src={Best} alt=""></img>
     </div>
   )
 }

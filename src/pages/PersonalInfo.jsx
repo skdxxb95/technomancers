@@ -2,8 +2,8 @@ import React from 'react'
 
 const PersonalInfo = () => {
   return (
-    <div>
-        <div>Personal Information</div>
+    <div className="personalinfo">
+        <h1>Personal Information</h1>
     </div>
   )
 }
