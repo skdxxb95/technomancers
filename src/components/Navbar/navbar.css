@@ -20,6 +20,9 @@ body {
     gap: 2rem;
     padding: 0 1rem;
     border-radius: 1rem;
+    border: 3px solid transparent;
+    border-radius: 1rem;
+    border-color: var(--color-primary-variant);
 }
 
 .nav ul {

@@ -1,12 +1,26 @@
 img {
-    width: 50%;
-    height: auto;
-    padding: 3rem;
+    margin: 2rem 0rem;
     border-radius: 3rem;
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border: 1px solid transparent;
+    border-radius: 3rem;
+    border-color: var(--color-primary);
 }
 
-.main-image {
-    margin: 3rem;
-    border: 3rem;
-    border-radius: 3rem;
+.introduction {
+    display: grid;
+    grid-template-columns: 30% 60%;
+    gap: 10%;
+}
+
+.introduction-content p {
+    color: var(--color-white);
+    background: var(--color-primary-variant);
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    border-color: var(--color-primary);
 }
