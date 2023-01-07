@@ -7,12 +7,12 @@ import ITWork from './components/ITWork/ITWork'
 import ITTechnologies from './components/ITTechnologies/ITTechnologies'
 import ProjectIdea from './components/ProjectIdea/ProjectIdea'
 import Navbar from './components/Navbar/Navbar'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 
 const App = () => {
   return (
     <div className="container">
-      <BrowserRouter>
+      <HashRouter>
       <Navbar />
         <Routes>
           <Route path ="/" element={<Home />}></Route>
@@ -22,7 +22,7 @@ const App = () => {
           <Route path ="/ittechnologies" element={<ITTechnologies />}></Route>
           <Route path ="/projectidea" element={<ProjectIdea />}></Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   )
 }
