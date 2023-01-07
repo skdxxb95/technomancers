@@ -12,10 +12,10 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 const App = () => {
   return (
     <div className="container">
-      <Navbar />
       <BrowserRouter>
+      <Navbar />
         <Routes>
-          <Route exact path ="/" element={<Home />}></Route>
+          <Route path ="/" element={<Home />}></Route>
           <Route path ="/teamprofile" element={<TeamProfile />}></Route>
           <Route path ="/industrydata" element={<IndustryData />}></Route>
           <Route path ="/itwork" element={<ITWork />}></Route>
