@@ -10,19 +10,19 @@ const Navbar = () => {
           <a href="/technomancers">Home</a>
         </li>
         <li>
-          <a href="/teamprofile">Team Profile</a>
+          <a href="/technomancers/teamprofile">Team Profile</a>
         </li>
         <li>  
-          <a href="/industrydata">Industry Data</a>
+          <a href="/technomancers/industrydata">Industry Data</a>
         </li>
         <li>  
-          <a href="/itwork">IT Work</a>
+          <a href="/technomancers/itwork">IT Work</a>
         </li>
         <li>  
-          <a href="/ittechnologies">IT Technologies</a>
+          <a href="/technomancers/ittechnologies">IT Technologies</a>
         </li>
         <li>
-          <a href="/projectidea">Project Idea</a>
+          <a href="/technomancers/projectidea">Project Idea</a>
         </li>
       </ul>
     </nav>
