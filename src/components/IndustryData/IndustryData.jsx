@@ -1,10 +1,9 @@
 import React from 'react'
+import './industrydata.css'
 
 const IndustryData = () => {
   return (
-    <div className="IndustryData">
-        <h1>Industry Data</h1>
-    </div>
+    <div>IndustryData</div>
   )
 }
 
