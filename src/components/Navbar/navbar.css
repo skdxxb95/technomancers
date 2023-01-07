@@ -3,21 +3,23 @@
 }
 
 body {
-    margin: 0;
+    margin-top: 1.5rem;
 }
 
 .site-title {
-    font-size: 2rem;
+    font-size: 2.25rem;
 }
 
 .nav {
     background-color: rgb(36, 36, 36);
     color: white;
+    transition: var(--transition);
     display: flex;
     justify-content: space-between;
     align-items: stretch;
     gap: 2rem;
     padding: 0 1rem;
+    border-radius: 1rem;
 }
 
 .nav ul {
