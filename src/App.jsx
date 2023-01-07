@@ -9,16 +9,32 @@ import ProjectIdea from './components/ProjectIdea/ProjectIdea'
 import Navbar from './components/Navbar/Navbar'
 
 const App = () => {
+  let Component
+  switch (window.location.pathname) {
+    case "/":
+      Component = Home
+      break
+    case "/teamprofile":
+      Component = TeamProfile
+      break
+    case "/industrydata":
+      Component = IndustryData
+      break
+    case "/itwork":
+      Component = ITWork
+      break
+    case "/ittechnologies":
+      Component = ITTechnologies
+      break
+    case "/projectidea":
+      Component = ProjectIdea
+      break  
+  }
   return (
-    <>
-      <Navbar />
-      <Home />
-      <TeamProfile />
-      <IndustryData />
-      <ITWork />
-      <ITTechnologies />
-      <ProjectIdea />
-    </>
+  <>
+    <Navbar />
+    <Component />
+  </>
   )
 }
 
