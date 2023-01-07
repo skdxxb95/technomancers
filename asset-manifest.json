@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/technomancers/static/css/main.d00cad23.css",
-    "main.js": "/technomancers/static/js/main.2992d738.js",
+    "main.js": "/technomancers/static/js/main.ad48ab12.js",
     "index.html": "/technomancers/index.html",
     "main.d00cad23.css.map": "/technomancers/static/css/main.d00cad23.css.map",
-    "main.2992d738.js.map": "/technomancers/static/js/main.2992d738.js.map"
+    "main.ad48ab12.js.map": "/technomancers/static/js/main.ad48ab12.js.map"
   },
   "entrypoints": [
     "static/css/main.d00cad23.css",
-    "static/js/main.2992d738.js"
+    "static/js/main.ad48ab12.js"
   ]
 }
