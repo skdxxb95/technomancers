@@ -1,6 +1,5 @@
 img {
     margin: 2rem 0rem;
-    border-radius: 3rem;
     display: block;
     width: 100%;
     height: auto;
@@ -24,3 +23,4 @@ img {
     border-radius: 1rem;
     border-color: var(--color-primary);
 }
+
