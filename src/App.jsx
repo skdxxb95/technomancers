@@ -7,34 +7,25 @@ import ITWork from './components/ITWork/ITWork'
 import ITTechnologies from './components/ITTechnologies/ITTechnologies'
 import ProjectIdea from './components/ProjectIdea/ProjectIdea'
 import Navbar from './components/Navbar/Navbar'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 
 const App = () => {
-  let Component
-  switch (window.location.pathname) {
-    case "/technomancers":
-      Component = Home
-      break
-    case "/teamprofile":
-      Component = TeamProfile
-      break
-    case "/industrydata":
-      Component = IndustryData
-      break
-    case "/itwork":
-      Component = ITWork
-      break
-    case "/ittechnologies":
-      Component = ITTechnologies
-      break
-    case "/projectidea":
-      Component = ProjectIdea
-      break  
-  }
   return (
-  <>
-    <Navbar />
-    <Component />
-  </>
+    <div className="container">
+      <>
+        <Navbar/>
+      </>
+      <HashRouter>
+        <Routes>
+          <Route exact path ="/technomancers" element={<Home />}></Route>
+          <Route path ="/teamprofile" element={<TeamProfile />}></Route>
+          <Route path ="/industrydata" element={<IndustryData />}></Route>
+          <Route path ="/itwork" element={<ITWork />}></Route>
+          <Route path ="/ittechnologies" element={<ITTechnologies />}></Route>
+          <Route path ="/projectidea" element={<ProjectIdea />}></Route>
+        </Routes>
+      </HashRouter>
+    </div>
   )
 }
 
