@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/technomancers/static/css/main.bbd08206.css",
-    "main.js": "/technomancers/static/js/main.4844991d.js",
+    "main.css": "/technomancers/static/css/main.d00cad23.css",
+    "main.js": "/technomancers/static/js/main.5226f646.js",
     "index.html": "/technomancers/index.html",
-    "main.bbd08206.css.map": "/technomancers/static/css/main.bbd08206.css.map",
-    "main.4844991d.js.map": "/technomancers/static/js/main.4844991d.js.map"
+    "main.d00cad23.css.map": "/technomancers/static/css/main.d00cad23.css.map",
+    "main.5226f646.js.map": "/technomancers/static/js/main.5226f646.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbd08206.css",
-    "static/js/main.4844991d.js"
+    "static/css/main.d00cad23.css",
+    "static/js/main.5226f646.js"
   ]
 }
