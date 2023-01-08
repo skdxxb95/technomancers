@@ -7,6 +7,7 @@ const IndustryData = () => {
       <div className='industrydata'>
         <div className="industrydata-content">
           <h1>Industry Data</h1>
+          <h5>Here's our research.</h5>
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>

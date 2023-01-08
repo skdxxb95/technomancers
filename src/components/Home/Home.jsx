@@ -9,6 +9,9 @@ import {FaGithubAlt, FaGithubSquare} from 'react-icons/fa'
 const Home = () => {
   return (
     <section id='home'>
+      <div className='introduction-title'>
+        <h1>Technomancers</h1>
+      </div>
       <div className="introduction">
         <div className='main-image'>
           <img src={BEST}></img>

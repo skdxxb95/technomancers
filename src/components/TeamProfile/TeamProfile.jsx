@@ -7,6 +7,7 @@ const TeamProfile = () => {
       <div className='teamprofile'>
         <div className="teamprofile-content">
           <h1>Team Profile</h1>
+          <h5>More about each of our team members!</h5>
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>

@@ -1,7 +1,9 @@
 import React from "react";
 import * as FaIcons from "react-icons/fa";
 import * as AiIcons from "react-icons/ai";
-import * as IoIcons from "react-icons/io";
+import * as GoIcons from "react-icons/go";
+import * as BsIcons from "react-icons/bs";
+import * as MdIcons from "react-icons/md";
 
 export const SidebarData = [
   {
@@ -13,31 +15,31 @@ export const SidebarData = [
   {
     title: "Team Profile",
     path: "/teamprofile",
-    icon: <IoIcons.IoIosPaper />,
+    icon: <AiIcons.AiOutlineProfile />,
     cName: "nav-text",
   },
   {
     title: "Industry Data",
     path: "/industrydata",
-    icon: <FaIcons.FaCartPlus />,
+    icon: <BsIcons.BsClipboardData />,
     cName: "nav-text",
   },
   {
     title: "IT Work",
     path: "/itwork",
-    icon: <IoIcons.IoMdPeople />,
+    icon: <MdIcons.MdWorkOutline />,
     cName: "nav-text",
   },
   {
     title: "IT Technologies",
     path: "/ittechnologies",
-    icon: <FaIcons.FaEnvelopeOpenText />,
+    icon: <FaIcons.FaRobot />,
     cName: "nav-text",
   },
   {
     title: "Project Idea",
     path: "/projectidea",
-    icon: <IoIcons.IoMdHelpCircle />,
+    icon: <GoIcons.GoCircuitBoard />,
     cName: "nav-text",
   },
 ];

@@ -6,6 +6,11 @@
 }
 
 .teamprofile-content h1 {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.teamprofile-content h5 {
     text-align: center;
     margin-bottom: 3rem;
 }

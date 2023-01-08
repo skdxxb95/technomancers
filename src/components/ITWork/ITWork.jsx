@@ -7,6 +7,7 @@ const ITWork = () => {
       <div className='itwork'>
         <div className="itwork-content">
           <h1>IT Work</h1>
+          <h5>From the perspective of an IT professional.</h5>
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>

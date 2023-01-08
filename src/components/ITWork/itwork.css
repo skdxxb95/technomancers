@@ -6,6 +6,11 @@
 }
 
 .itwork-content h1 {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.itwork-content h5 {
     text-align: center;
     margin-bottom: 3rem;
 }

@@ -6,7 +6,8 @@ const ProjectIdea = () => {
     <section id='projectidea'>
       <div className='projectidea'>
         <div className="projectidea-content">
-          <h1>Project Idea</h1>
+          <h1>DuckyPass</h1>
+          <h5>Our Project Idea.</h5>
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>

@@ -7,6 +7,7 @@ const ITTechnologies = () => {
       <div className='ittechnologies'>
         <div className="ittechnologies-content">
           <h1>IT Technologies</h1>
+          <h5>This is our research on the universe of Information Technology.</h5>
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>

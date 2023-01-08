@@ -1,3 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+.introduction-title {
+  margin-top: 3rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.introduction-title h1 {
+  font-size: 50px;
+  font-family: 'Orbitron', sans-serif;
+  color: #ffffff;
+  animation: neon 3s infinite;
+}
+
+@keyframes neon {
+  0% {
+    text-shadow: 0 0 20px #00ffff;
+  }
+  50% {
+    text-shadow: 0 0 20px #ff00ff;
+  }
+  100% {
+    text-shadow: 0 0 20px #00ffff;
+  }
+}
+
+@keyframes flicker {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.introduction-title h1:after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #ffffff;
+  animation: flicker 3s infinite;
+}
+
+
 img {
     margin: 2rem 0rem;
     display: block;
@@ -11,7 +60,7 @@ img {
 
 .introduction {
     width: var(--container-width-lg);
-    margin: 4rem auto;
+    margin: 4.5rem auto;
     display: grid;
     grid-template-columns: 25% 65%;
     gap: 10%;
