@@ -1,0 +1,19 @@
+.projectidea-content {
+    width: var(--container-width-lg);
+    margin: auto;
+    font-size: 17px;
+}
+
+.projectidea-content h1 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.projectidea-content p {
+    color: var(--color-white);
+    background: var(--color-primary-variant);
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    border-color: var(--color-primary);
+}
