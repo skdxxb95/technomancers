@@ -1,12 +1,12 @@
-.navbar {
-  background: var(--color-bg);
-  height: 80px;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  border-bottom: 1px solid transparent;
-  border-color: var(--color-primary);
-}
+  .navbar {
+    background: var(--color-bg);
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid transparent;
+    border-color: var(--color-primary);
+  }
 
 
     
