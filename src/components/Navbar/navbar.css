@@ -1,22 +1,24 @@
-  .navbar {
-    background: var(--color-bg);
-    height: 80px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    border-bottom: 1px solid transparent;
-    border-color: var(--color-primary);
-  }
+.navbar {
+  position: fixed;
+  padding: 2rem;
+  top: 15px;
+  right: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 1rem;
+  background: var(--color-bg);
+  border: 1px solid var(--color-primary);
+}
 
-
-    
-  .menu-bars {
-    margin-right: 2rem;
-    font-size: 2rem;
-    background: none;
-    color: var(--color-light);
-  }
-
+.menu-bars {
+  margin-top: 9px;
+  font-size: 2rem;
+  background: none;
+  color: var(--color-light);
+}
   
 .nav-menu {
     background-color: var(--color-bg);
@@ -74,6 +76,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    padding-right: 2rem;
   }
   
   span {
