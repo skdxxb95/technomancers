@@ -23,6 +23,7 @@
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
+    --img: url(../src/assets/bg-texture.png)
 }
 
 html {
@@ -38,8 +39,13 @@ body {
     color: var(--color-white);
     font-family: 'Prompt', sans-serif;
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
+    background-image: radial-gradient(ellipse, rgba(117, 19, 93, 0.274), rgba(22, 22, 22, 0.52)), var(--img);
+    background-size: cover, repeat;
+    background-repeat: no-repeat, repeat;
+    background-attachment: fixed;
+    height: 100vh;
 }
+
 
 /*=============== GENERAL STYLES ===============*/
 
