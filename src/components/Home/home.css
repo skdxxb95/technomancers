@@ -15,6 +15,7 @@ img {
     display: grid;
     grid-template-columns: 25% 65%;
     gap: 10%;
+    min-height: calc(100vh - 150px - 50px);
 }
 
 .introduction-content p {
@@ -24,4 +25,5 @@ img {
     border: 1px solid transparent;
     border-radius: 1rem;
     border-color: var(--color-primary);
+    font-size: 17px;
 }

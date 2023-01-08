@@ -8,6 +8,7 @@ import ITTechnologies from './components/ITTechnologies/ITTechnologies'
 import ProjectIdea from './components/ProjectIdea/ProjectIdea'
 import Navbar from './components/Navbar/Navbar'
 import { HashRouter, Route, Routes } from 'react-router-dom'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
           <Route path ="/ittechnologies" element={<ITTechnologies />}></Route>
           <Route path ="/projectidea" element={<ProjectIdea />}></Route>
         </Routes>
+      <Footer />
       </HashRouter>
     </div>
   )
