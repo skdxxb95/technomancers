@@ -29,6 +29,14 @@ footer a {
     list-style: none;
 }
 
+.permalinks a {
+    transition: var(--transition);
+}
+
+.permalinks a:hover {
+    color: var(--color-white);
+}
+
 .footer__socials {
     display: flex;
     justify-content: center;
@@ -45,6 +53,7 @@ footer a {
     display: flex;
     border: 1px solid transparent;
     border-color: var(--color-primary);
+    transition: var(--transition);
 }
 
 .footer__socials a:hover {

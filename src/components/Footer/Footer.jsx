@@ -2,6 +2,7 @@ import React from 'react'
 import './footer.css'
 import {VscGithub, VscGithubInverted, VscGithubAlt} from 'react-icons/vsc'
 import {SlSocialGithub} from 'react-icons/sl'
+import {FaGithubAlt, FaGithubSquare} from 'react-icons/fa'
 
 const Footer = () => {
   return (
@@ -22,8 +23,8 @@ const Footer = () => {
           <a href="https://github.com/Skelly12316" target="_blank"><VscGithubInverted /></a>
           <a href="https://github.com/crimson-ghost" target="_blank"><SlSocialGithub /></a>
           <a href="https://github.com/Barrinvorg" target="_blank"><VscGithubAlt /></a>
-          <a href="https://github.com/allyharper" target="_blank"><VscGithubInverted /></a>
-          <a href="https://github.com/skdxxb95" target="_blank"><VscGithub /></a>
+          <a href="https://github.com/allyharper" target="_blank"><FaGithubAlt /></a>
+          <a href="https://github.com/skdxxb95" target="_blank"><FaGithubSquare /></a>
         </div>
 
         <div className="footer__copyright">

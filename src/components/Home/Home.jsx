@@ -1,7 +1,10 @@
 import React from 'react'
 import './home.css'
 import BEST from '../../assets/Best.PNG'
-import {VscGithub} from 'react-icons/vsc'
+import {VscGithub, VscGithubInverted, VscGithubAlt} from 'react-icons/vsc'
+import {SlSocialGithub} from 'react-icons/sl'
+import {FaGithubAlt, FaGithubSquare} from 'react-icons/fa'
+
 
 const Home = () => {
   return (
@@ -29,22 +32,58 @@ const Home = () => {
       </div>
       <div className='github-links'>
           <div>
-            Sarah S.
+            <a href='https://stinclair.github.io/assessment_1/' download target="_blank">
+              <article>
+                <VscGithub size='35' className='personalprofile__details-icon' />
+                <h3>Sarah S.</h3>
+                <small>Click here to open</small>
+              </article>
+            </a>
           </div>
           <div>
-            Samuel K.
+            <a href='https://skelly12316.github.io/MyProfile/' download target="_blank">
+              <article>
+                <VscGithubInverted size='35' className='personalprofile__details-icon' />
+                <h3>Samuel K.</h3>
+                <small>Click here to open</small>
+              </article>
+            </a>
           </div>
           <div>
-            Brodie W.
+            <a href='https://crimson-ghost.github.io/Assignment/' download target="_blank">
+              <article>
+                <SlSocialGithub size='35' className='personalprofile__details-icon' />
+                <h3>Brodie W.</h3>
+                <small>Click here to open</small>
+              </article>
+            </a>
           </div>
           <div>
-            Damian W.
+            <a href='https://barrinvorg.github.io/COSC2196---Assignment-1/' download target="_blank">
+              <article>
+                <VscGithubAlt size='35' className='personalprofile__details-icon' />
+                <h3>Damian W.</h3>
+                <small>Click here to open</small>
+              </article>
+            </a>
           </div>
           <div>
-            Ally H.
+            <a href='https://allyharper.github.io/Assignment-1/' download target="_blank">
+              <article>
+                <FaGithubAlt size='35' className='personalprofile__details-icon' />
+                <h3>Ally H.</h3>
+                <small>Click here to open</small>
+              </article>
+            </a>
           </div>
           <div>
-            Samuel B.
+            <a href='https://skdxxb95.github.io/skdxxb95/' download target="_blank">
+              <article>
+                <FaGithubSquare size='35' className='personalprofile__details-icon' />
+                <h3>Samuel B.</h3>
+                <small>Click here to open</small>
+              </article>
+            </a>
           </div>
         </div>
     </section>
