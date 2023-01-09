@@ -35,7 +35,7 @@ const Home = () => {
       </div>
       <div className='github-links'>
           <div>
-            <a href='https://stinclair.github.io/assessment_1/' download target="_blank">
+            <a href='https://stinclair.github.io/assessment_1/' target="_blank">
               <article>
                 <VscGithub size='35' className='personalprofile__details-icon' />
                 <h3>Sarah S.</h3>
@@ -44,7 +44,7 @@ const Home = () => {
             </a>
           </div>
           <div>
-            <a href='https://skelly12316.github.io/MyProfile/' download target="_blank">
+            <a href='https://skelly12316.github.io/MyProfile/' target="_blank">
               <article>
                 <VscGithubInverted size='35' className='personalprofile__details-icon' />
                 <h3>Samuel K.</h3>
@@ -53,7 +53,7 @@ const Home = () => {
             </a>
           </div>
           <div>
-            <a href='https://crimson-ghost.github.io/Assignment/' download target="_blank">
+            <a href='https://crimson-ghost.github.io/Assignment/' target="_blank">
               <article>
                 <SlSocialGithub size='35' className='personalprofile__details-icon' />
                 <h3>Brodie W.</h3>
@@ -62,7 +62,7 @@ const Home = () => {
             </a>
           </div>
           <div>
-            <a href='https://barrinvorg.github.io/COSC2196---Assignment-1/' download target="_blank">
+            <a href='https://barrinvorg.github.io/COSC2196---Assignment-1/' target="_blank">
               <article>
                 <VscGithubAlt size='35' className='personalprofile__details-icon' />
                 <h3>Damian W.</h3>
@@ -71,7 +71,7 @@ const Home = () => {
             </a>
           </div>
           <div>
-            <a href='https://allyharper.github.io/Assignment-1/' download target="_blank">
+            <a href='https://allyharper.github.io/Assignment-1/' target="_blank">
               <article>
                 <FaGithubAlt size='35' className='personalprofile__details-icon' />
                 <h3>Ally H.</h3>
@@ -80,7 +80,7 @@ const Home = () => {
             </a>
           </div>
           <div>
-            <a href='https://skdxxb95.github.io/skdxxb95/' download target="_blank">
+            <a href='https://skdxxb95.github.io/skdxxb95/' target="_blank">
               <article>
                 <FaGithubSquare size='35' className='personalprofile__details-icon' />
                 <h3>Samuel B.</h3>
