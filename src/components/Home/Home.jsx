@@ -39,7 +39,6 @@ const Home = () => {
               <article>
                 <VscGithub size='35' className='personalprofile__details-icon' />
                 <h3>Sarah S.</h3>
-                <small>Click here to open</small>
               </article>
             </a>
           </div>
@@ -48,7 +47,6 @@ const Home = () => {
               <article>
                 <VscGithubInverted size='35' className='personalprofile__details-icon' />
                 <h3>Samuel K.</h3>
-                <small>Click here to open</small>
               </article>
             </a>
           </div>
@@ -57,7 +55,6 @@ const Home = () => {
               <article>
                 <SlSocialGithub size='35' className='personalprofile__details-icon' />
                 <h3>Brodie W.</h3>
-                <small>Click here to open</small>
               </article>
             </a>
           </div>
@@ -66,7 +63,6 @@ const Home = () => {
               <article>
                 <VscGithubAlt size='35' className='personalprofile__details-icon' />
                 <h3>Damian W.</h3>
-                <small>Click here to open</small>
               </article>
             </a>
           </div>
@@ -75,7 +71,6 @@ const Home = () => {
               <article>
                 <FaGithubAlt size='35' className='personalprofile__details-icon' />
                 <h3>Ally H.</h3>
-                <small>Click here to open</small>
               </article>
             </a>
           </div>
@@ -84,7 +79,6 @@ const Home = () => {
               <article>
                 <FaGithubSquare size='35' className='personalprofile__details-icon' />
                 <h3>Samuel B.</h3>
-                <small>Click here to open</small>
               </article>
             </a>
           </div>

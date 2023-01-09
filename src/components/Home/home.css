@@ -134,3 +134,12 @@ img {
       gap: 0;
     }
   }
+
+  @media (max-width: 480px) {
+  .introduction-title h1 {
+    font-size: 38px;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    animation: neon 3s infinite;
+  }
+  }
