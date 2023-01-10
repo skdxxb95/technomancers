@@ -83,48 +83,48 @@ img {
 }
 
 .github-links {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 100%;
-    margin-bottom: 5rem;
-  }
-  
-  /*-----Defines the look, spacing and display of the GitHub Buttons as a whole, the behaviour is addressed below this block-----*/
-  .github-links > div {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 200px; 
-    height: 180px;
-    border: 1px solid var(--color-primary);
-    background: var(--color-primary-variant);
-    border-radius: 1rem; 
-    box-sizing: border-box;
-    transition: var(--transition);
-  }
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 5rem;
+}
 
-  /*------Make the GitHub buttons BORDER change colour when the cursor hovers over-----*/
-  .github-links > div:hover {
-    border: 1px solid var(--color-white);
-    border-radius: 1rem; 
-  }
+/*-----Defines the look, spacing and display of the GitHub Buttons as a whole, the behaviour is addressed below this block-----*/
+.github-links > a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px; 
+  height: 180px;
+  border: 1px solid var(--color-primary);
+  background: var(--color-primary-variant);
+  border-radius: 1rem; 
+  box-sizing: border-box;
+  transition: var(--transition);
+  text-decoration: none;
+}
 
-  /*----Setting the Styles for the look of the GitHub buttons----*/
-  .github-links > div a {
-    text-align: center;
-    text-decoration: none;
-    color: var(--color-primary);
-    font-size: 1.2em;
-    font-weight: bold;
-    padding: 1.58rem;
-    transition: var(--transition);
-  }
-  
-  /*------Make the GitHub buttons TEXT change colour when the cursor hovers over-----*/
-  .github-links > div a:hover {
-    color: var(--color-white);
-  }
+/*------Make the GitHub buttons BORDER change colour when the cursor hovers over-----*/
+.github-links > a:hover {
+  border: 1px solid var(--color-white);
+  border-radius: 1rem; 
+}
+
+/*----Setting the Styles for the look of the GitHub buttons----*/
+.github-links > a div {
+  text-align: center;
+  color: var(--color-primary);
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 1.58rem;
+  transition: var(--transition);
+}
+
+/*------Make the GitHub buttons TEXT change colour when the cursor hovers over-----*/
+.github-links > a:hover div {
+  color: var(--color-white);
+}
   
 /*---------------SMALL DEVICE MEDIA QUERIES---------------*/
 

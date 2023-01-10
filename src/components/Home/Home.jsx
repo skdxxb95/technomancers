@@ -68,55 +68,43 @@ const Home = () => {
         </div>
       </div>
       <div className='github-links'>
+        <a href='https://stinclair.github.io/assessment_1/' target="_blank">
           <div>
-            <a href='https://stinclair.github.io/assessment_1/' target="_blank">
-              <article>
-                <VscGithub size='35' />
-                <h3>Sarah S.</h3>
-              </article>
-            </a>
+            <VscGithub size='35' />
+            <h3>Sarah S.</h3>
           </div>
+        </a>
+        <a href='https://skelly12316.github.io/MyProfile/' target="_blank">
           <div>
-            <a href='https://skelly12316.github.io/MyProfile/' target="_blank">
-              <article>
-                <VscGithubInverted size='35' />
-                <h3>Samuel K.</h3>
-              </article>
-            </a>
+            <VscGithubInverted size='35' />
+            <h3>Samuel K.</h3>
           </div>
+        </a>
+        <a href='https://crimson-ghost.github.io/Assignment/' target="_blank">
           <div>
-            <a href='https://crimson-ghost.github.io/Assignment/' target="_blank">
-              <article>
-                <SlSocialGithub size='35' />
-                <h3>Brodie W.</h3>
-              </article>
-            </a>
+            <SlSocialGithub size='35' />
+            <h3>Brodie W.</h3>
           </div>
+        </a>
+        <a href='https://barrinvorg.github.io/COSC2196---Assignment-1/' target="_blank">
           <div>
-            <a href='https://barrinvorg.github.io/COSC2196---Assignment-1/' target="_blank">
-              <article>
-                <VscGithubAlt size='35' />
-                <h3>Damian W.</h3>
-              </article>
-            </a>
+            <VscGithubAlt size='35' />
+            <h3>Damian W.</h3>
           </div>
+        </a>
+         <a href='https://allyharper.github.io/Assignment-1/' target="_blank">
           <div>
-            <a href='https://allyharper.github.io/Assignment-1/' target="_blank">
-              <article>
-                <FaGithubAlt size='35' />
-                <h3>Ally H.</h3>
-              </article>
-            </a>
+            <FaGithubAlt size='35' />
+            <h3>Ally H.</h3>
           </div>
+        </a>
+        <a href='https://skdxxb95.github.io/skdxxb95/' target="_blank">
           <div>
-            <a href='https://skdxxb95.github.io/skdxxb95/' target="_blank">
-              <article>
-                <FaGithubSquare size='35' />
-                <h3>Samuel B.</h3>
-              </article>
-            </a>
+            <FaGithubSquare size='35' />
+            <h3>Samuel B.</h3>
           </div>
-        </div>
+        </a>
+      </div>
     </section>
   )
 }
