@@ -62,12 +62,12 @@ img {
     width: var(--container-width-lg);
     margin: 4.5rem auto;
     display: grid;
-    grid-template-columns: 25% 65%;
+    grid-template-columns: 30% 50%;
     gap: 10%;
     min-height: calc(100vh - 150px - 50px);
 }
 
-.introduction-content p {
+.introduction-content > div {
     color: var(--color-white);
     background: var(--color-primary-variant);
     padding: 1rem;
@@ -75,6 +75,11 @@ img {
     border-radius: 1rem;
     border-color: var(--color-primary);
     font-size: 17px;
+    margin-bottom: 2rem;
+}
+
+.introduction-content > div h3, h4 {
+  text-align: center;
 }
 
 .github-links {
@@ -85,6 +90,7 @@ img {
     margin-bottom: 5rem;
   }
   
+  /*-----Defines the look, spacing and display of the GitHub Buttons as a whole, the behaviour is addressed below this block-----*/
   .github-links > div {
     display: inline-flex;
     justify-content: center;
@@ -98,11 +104,13 @@ img {
     transition: var(--transition);
   }
 
+  /*------Make the GitHub buttons BORDER change colour when the cursor hovers over-----*/
   .github-links > div:hover {
     border: 1px solid var(--color-white);
     border-radius: 1rem; 
   }
 
+  /*----Setting the Styles for the look of the GitHub buttons----*/
   .github-links > div a {
     text-align: center;
     text-decoration: none;
@@ -113,6 +121,7 @@ img {
     transition: var(--transition);
   }
   
+  /*------Make the GitHub buttons TEXT change colour when the cursor hovers over-----*/
   .github-links > div a:hover {
     color: var(--color-white);
   }
