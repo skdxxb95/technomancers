@@ -61,7 +61,7 @@ const Home = () => {
               {/*----- SAMUEL B'S INTRODUCTION CONTENT ----*/}
               <h3>Samuel B.</h3>
               <p>
-                ....'s introduction
+                My name is Sam, and I am a student at RMIT with the student number S3992963. I am originally from England, but grew up in Brisbane, Australia. Before starting my studies in the Bachelor of Information Technology, I worked in the hospitality industry. However, I have always had a personal interest in IT and recently decided to pursue a career in this field. I am particularly interested in software development and have a passion for understanding how things work and how they can be improved. In my spare time, I enjoy tinkering with electronics and programming. I have some experience in IT, including my experiences with the Twilight Hack and USB Gecko, which taught me a lot about problem-solving and working with electronics. I also have some experience with programming being something I enjoy doing in my spare time and experience in tech support, being my current career. I am excited to learn more about full stack development and other areas of IT as part of my studies at RMIT. I am part of the team Technomancers for this project. We are a group of dedicated and enthusiastic students with a shared interest in technology. 
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
