@@ -5,6 +5,10 @@ import * as GoIcons from "react-icons/go";
 import * as BsIcons from "react-icons/bs";
 import * as MdIcons from "react-icons/md";
 
+{/*------ DON'T CHANGE THIS PAGE, IT WILL BREAK THE NAVBAR LINKS ------*/}
+{/*------ DON'T CHANGE THIS PAGE, IT WILL BREAK THE NAVBAR LINKS ------*/}
+{/*------ DON'T CHANGE THIS PAGE, IT WILL BREAK THE NAVBAR LINKS ------*/}
+
 export const SidebarData = [
   {
     title: "Home",

@@ -17,6 +17,9 @@ const Home = () => {
           <img src={BEST}></img>
         </div>
         <div className='introduction-content'>
+          {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
+          {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
+          {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>
@@ -31,6 +34,9 @@ const Home = () => {
           Occaecati nulla molestias voluptas nostrum facilis est deserunt. Placeat pariatur sint natus ab. Ipsam est repellendus maiores quod. Aut perferendis laborum aut.
           Praesentium neque quasi natus qui voluptas officiis dolor voluptates. Voluptas ad quaerat assumenda qui odit. Doloremque assumenda porro culpa aut et expedita. Totam et voluptas voluptatibus occaecati blanditiis. Repellendus incidunt perferendis consequatur ratione soluta quae voluptas corporis.
           </p>
+          {/*------ THIS IS WHERE YOU STOP ------*/}
+          {/*------ THIS IS WHERE YOU STOP ------*/}
+          {/*------ THIS IS WHERE YOU STOP ------*/}
         </div>
       </div>
       <div className='github-links'>

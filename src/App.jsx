@@ -10,6 +10,10 @@ import Navbar from './components/Navbar/Navbar'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 import Footer from './components/Footer/Footer'
 
+{/*------ PLEASE DON'T EDIT, RESPONSIBLE FOR ALL THE PAGES LINKING TO EACH OTHER ------*/}
+{/*------ PLEASE DON'T EDIT, RESPONSIBLE FOR ALL THE PAGES LINKING TO EACH OTHER ------*/}
+{/*------ PLEASE DON'T EDIT, RESPONSIBLE FOR ALL THE PAGES LINKING TO EACH OTHER ------*/}
+
 const App = () => {
   return (
     <div className="container">

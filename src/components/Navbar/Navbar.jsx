@@ -6,6 +6,10 @@ import { SidebarData } from "./SidebarData";
 import "./navbar.css";
 import { IconContext } from "react-icons";
 
+{/*------ DON'T CHANGE THIS PAGE (UNLESS YOU WANT TO CHANGE THE NAVBAR CONTENT) ------*/}
+{/*------ DON'T CHANGE THIS PAGE (UNLESS YOU WANT TO CHANGE THE NAVBAR CONTENT) ------*/}
+{/*------ DON'T CHANGE THIS PAGE (UNLESS YOU WANT TO CHANGE THE NAVBAR CONTENT) ------*/}
+
 function Navbar() {
   const [sidebar, setSidebar] = useState(false);
 
@@ -14,11 +18,13 @@ function Navbar() {
   return (
     <>
       <IconContext.Provider value={{ color: "undefined" }}>
-        <div className="navbar">
-          <Link to="#" className="menu-bars">
-            <FaIcons.FaBars onClick={showSidebar} />
-          </Link>
-        </div>
+        <Link to="#">
+          <div className="navbar">
+            <div className="menu-bars" onClick={showSidebar}>
+              <FaIcons.FaBars />
+            </div>
+          </div>
+        </Link>
         <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
           <ul className="nav-menu-items" onClick={showSidebar}>
             <li className="navbar-toggle">

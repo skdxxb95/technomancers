@@ -135,11 +135,9 @@ img {
     }
   }
 
+    /*----Make the title font size 38px when screen is made smaller----*/
   @media (max-width: 480px) {
   .introduction-title h1 {
     font-size: 38px;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    animation: neon 3s infinite;
   }
   }

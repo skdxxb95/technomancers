@@ -8,6 +8,9 @@ const ITWork = () => {
         <div className="itwork-content">
           <h1>IT Work</h1>
           <h5>From the perspective of an IT professional.</h5>
+          {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
+          {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
+          {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           <p>
           Animi quas est eum dolore. Aperiam ex fuga sit esse consequuntur quibusdam nulla. Amet sunt voluptas ducimus aliquid ipsum omnis qui. Debitis qui molestias consequatur placeat non omnis beatae expedita.
           <br></br>
@@ -19,6 +22,9 @@ const ITWork = () => {
           <br></br>
           Placeat ipsa voluptas minima in laudantium doloribus et. Quasi iusto nisi accusantium amet reprehenderit. Voluptas dolorem repellat debitis ut voluptatem dolores. Maxime amet est eum quis itaque quibusdam eos. Deserunt nemo unde facere fuga enim minima repellat nihil.
           </p>
+          {/*------ THIS IS WHERE YOU STOP ------*/}
+          {/*------ THIS IS WHERE YOU STOP ------*/}
+          {/*------ THIS IS WHERE YOU STOP ------*/}
         </div>
       </div>
     </section>

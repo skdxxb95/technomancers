@@ -4,6 +4,10 @@ import {VscGithub, VscGithubInverted, VscGithubAlt} from 'react-icons/vsc'
 import {SlSocialGithub} from 'react-icons/sl'
 import {FaGithubAlt, FaGithubSquare} from 'react-icons/fa'
 
+{/*------ DON'T CHANGE THIS PAGE (UNLESS YOU WANT TO CHANGE THE FOOTER CONTENT) ------*/}
+{/*------ DON'T CHANGE THIS PAGE (UNLESS YOU WANT TO CHANGE THE FOOTER CONTENT) ------*/}
+{/*------ DON'T CHANGE THIS PAGE (UNLESS YOU WANT TO CHANGE THE FOOTER CONTENT) ------*/}
+
 const Footer = () => {
   return (
     <section id='footer'>
