@@ -1,6 +1,7 @@
 import React from 'react'
 import './home.css'
 import BEST from '../../assets/Best.PNG'
+import BEST3 from '../../assets/Best3.png'
 import {VscGithub, VscGithubInverted, VscGithubAlt} from 'react-icons/vsc'
 import {SlSocialGithub} from 'react-icons/sl'
 import {FaGithubAlt, FaGithubSquare} from 'react-icons/fa'
@@ -15,6 +16,7 @@ const Home = () => {
       <div className="introduction">
         <div className='main-image'>
           <img src={BEST}></img>
+          <img src={BEST3}></img>
         </div>
         <div className='introduction-content'>
             <div>
