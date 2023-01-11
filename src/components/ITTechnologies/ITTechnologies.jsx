@@ -75,10 +75,63 @@ const ITTechnologies = () => {
             </p>
           </div>
           <div className='ittechnologies-raspberrypi'>
-            <h2>Raspbery Pi's, Arduino's and Other Devices</h2>
+            <h2>Raspberry Pi's, Arduino's and Other Devices</h2>
             <p>
-              hello
+              In recent years, Raspberry Pi's and Arduinos have gained widespread popularity among hobbyists, educators, and developers. Raspberry Pi's are small, credit-card sized computers that run on a Linux-based operating system and can be used for a variety of tasks, including web browsing, word processing, and programming (Raspberry Pi LTD, n.d.). They have become popular due to their low cost, small size, and versatility, and have been used in applications such as media centres, home automation systems, and even as the brains of robots. Arduinos, on the other hand, are microcontrollers that are designed specifically for use in electronic projects. They can be programmed to control sensors, motors, and other electronic devices, and can be used to build a range of projects, from simple LED displays to more complex systems such as robots and drones. Arduinos are popular due to their ease of use and versatility (The Arduino Team, 2022).
             </p>
+            <br></br>
+            <p>
+              The state of the art of Raspberry Pi's and Arduinos is constantly evolving, with numerous new developments and innovations on the horizon. One of the most significant recent developments has been the proliferation of Internet of Things (IoT) devices, which are connected to the internet and can be controlled and monitored remotely. Both Raspberry Pi's and Arduinos have played a key role in the development of these devices, and it is likely that this trend will continue in the coming years. In terms of the current capabilities of these technologies, the possibilities are nearly endless. Raspberry Pi's and Arduinos can be used to build a wide range of projects, from simple electronic circuits to more complex systems such as robots and drones. They can also be used to develop applications for the IoT, allowing users to control and monitor devices remotely (Hrisko, 2021). 
+            </p>
+            <br></br>
+            <p>
+              Another popular tool in the field of electronics is the Makey Makey. These electronic circuits allow users to turn everyday objects into touchpads, and can be used with a computer or microcontroller, such as a Raspberry Pi or Arduino, to create interactive projects and games. Makey Makeys are popular among educators and hobbyists due to their ease of use and the wide range of projects that can be created with them. Some examples of projects that can be built with Makey Makeys include musical instruments made from fruits and vegetables, DIY computer keyboards, and interactive art installations (Silver & Rosenbaum, n.d.). The combination of Raspberry Pi's, Arduinos, and Makey Makeys offer endless possibilities for creating innovative electronic projects.
+            </p>
+            <br></br>
+            <p>
+              In the next three years, it is expected that there will be a continued growth in innovative uses for Raspberry Pi's and Arduinos. One possibility is the development of more advanced artificial intelligence and machine learning capabilities, allowing these devices to perform more complex tasks and make autonomous decisions. This already a field that is seeing exponential growth, with it being possible to “teach” your own devices in your own home with the appropriate setup (Quan, 2022). Another potential development is the creation of more sophisticated sensors and other hardware components, resulting in the creation of even more advanced and capable devices. The technological advancements that have made these possibilities possible include the proliferation of low-cost, high-powered computing hardware and the emergence of new software tools and platforms. The availability of low-cost microcontrollers and other hardware components has made it possible for individuals to build their own electronic projects, while the development of open-source software platforms such as the Arduino Integrated Development Environment (IDE) has made it easier for people to program and control these devices.
+            </p>
+            <br></br>
+            <p>
+              As the capabilities of Raspberry Pi's and Arduinos continue to expand, it is likely that we will see an increase in their use across a variety of industries and applications. From home automation systems to industrial control systems, these devices have the potential to revolutionize the way we interact with technology.
+            </p>
+            <br></br>
+            <p>
+              The potential impact of Raspberry Pi's and Arduinos is significant, as these technologies have the potential to significantly change the way we live and work. One example of the impact of these technologies is the proliferation of IoT devices, which could lead to the development of more efficient and convenient home automation systems, as well as the creation of new business models and services. Additionally, the ability to build and program sophisticated devices such as robots and drones could result in the creation of new industries and job opportunities. “…While it’s likely that robotics will make some careers obsolete and narrow the job market in certain sectors, research has shown that robotics will actually create more jobs in the long run…” (Western Governors University, 2021). The impact of these technologies on individuals will likely vary depending on how they are used. Some people may use Raspberry Pi's and Arduinos as a hobby or for educational purposes, while others may use them as a tool for creating new businesses or products. Regardless of how they are used, it is likely that these technologies will have a significant impact on the way we live and work in the future. As these technologies continue to evolve and become more widespread, it is important to consider the potential impact they may have on society and the workforce.
+            </p>
+            <br></br>
+            <p>
+              In terms of how these technologies will affect people in their daily lives, it is likely that they will have a number of beneficial impacts. For example, a homeowner could use a Raspberry Pi or Arduino to create a system that allows them to control the lighting and heating in their home from their smartphone, or to receive notifications if there is a problem with their security system. Similarly, these technologies could be used to create automated systems for watering plants, feeding pets, or performing other tasks around the home. Additionally, the ability to build and program sophisticated devices such as robots and drones could lead to the creation of new products and services that could make our lives easier and more efficient. Raspberry Pi's and Arduinos are exciting and innovative technologies that have the potential to change the way we live and work in a number of ways. From building simple electronic circuits to developing complex systems such as robots and drones, these technologies offer a wide range of possibilities for those who are interested in using them. Whether you are a hobbyist, an educator, or a developer, there are many ways that Raspberry Pi's and Arduinos can be used to create new and innovative projects that have the potential to make a real impact in the world.
+            </p>
+            <br></br>
+            <br></br>
+            <h2>References</h2>
+            <ol>
+              <li>
+                Raspberry Pi LTD (no date) <i>Raspberry pi documentation - The Linux Kernal, The Linux kernel.</i> <br></br>Available at: https://www.raspberrypi.com/documentation/computers/linux_kernel.html (Accessed: December 22, 2022). 
+              </li>
+              <li>
+                The Arduino Team (2022) <i>What is Arduino?: Arduino documentation, Arduino Documentation | Arduino Documentation.</i> <br></br>Available at: https://docs.arduino.cc/learn/starting-guide/whats-arduino (Accessed: December 22, 2022). 
+              </li>
+              <li>
+                Hrisko, J. (2021) <i>Arduino internet of things - raspberry pi, Arduino, and engineering tutorials, Maker Portal.</i> <br></br>Available at: https://makersportal.com/blog/tag/Arduino+Internet+of+Things (Accessed: December 22, 2022). 
+              </li>
+              <li>
+                Silver, J. and Rosenbaum, E. (no date) <i>Plug and play Makey Makey Apps, Joylabz Official Makey Makey Store.</i> <br></br>Available at: https://makeymakey.com/pages/plug-and-play-makey-makey-apps (Accessed: December 24, 2022). 
+              </li>
+              <li>
+                Quan, T. (2022) <i>Raspberry Pi & Machine Learning: All You Need To Know, All3DP.</i> <br></br>Available at: https://all3dp.com/2/raspberry-pi-machine-learning-simply-explained/ (Accessed: December 24, 2022). 
+              </li>
+              <li>
+                The Arduino Team (no date) <i>Arduino docs: Arduino Documentation, Arduino Docs | Arduino Documentation.</i> <br></br>Available at: https://docs.arduino.cc/ (Accessed: December 24, 2022). 
+              </li>
+              <li>
+                Western Governors University (2021) <i>How advances in robotics are shaping the future, How Advances in Robotics Are Shaping the Future.</i> <br></br>Available at: https://www.wgu.edu/blog/advances-robotics-shaping-future2109.html#close (Accessed: December 24, 2022). 
+              </li>
+              <li>
+                Tom Pritchard (2022) <i>What is Tesla Autopilot? everything you need to know, What is Tesla Autopilot? Everything you need to know.</i> Tom's Guide. <br></br>Available at: https://www.tomsguide.com/reference/telsa-autopilot (Accessed: December 25, 2022). 
+              </li>
+            </ol>
           </div>
           {/*------ THIS IS WHERE YOU STOP ------*/}
           {/*------ THIS IS WHERE YOU STOP ------*/}
