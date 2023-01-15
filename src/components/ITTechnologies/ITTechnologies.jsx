@@ -70,8 +70,42 @@ const ITTechnologies = () => {
           </div>
           <div className='ittechnologies-cybersec'>
             <h2>Cybersecurity</h2>
-            <p>
-              hello
+            <p>   
+            <p>Cybersecurity is a practice of enforcing policies and protocols to guard sensitive digital information from bad actors and malicious intent. It is how companies and organisations protect themselves from these threats. The history of cyber security originates in the 1970’s. A man named Bob Thomas realised it was possible for programs to move overnetworks, and so created a program named The Creeper. Simply, it moved across networks and left a message: “Hi! I’m The Creeper! Catch me if you can!”. This raised many concerns, specifically to another man, named Ray Tomlinson, famous for developing email. He created a program to hunt down and delete Creeper, a self-replicating program named The Reaper. In the process, Tomlinson also created the world’s first worm program. He simultaneously created the world’s first antivirus, and the origin of the world’s first malicious virus, later being The Morrison Worm.(cyber-security.degree; FBI.gov)</p><br></br>
+
+            <p>Modern day viruses are many, as the number of machines used to access the information super highway numbers in the billions. The most dangerous of these viruses today are the Zeus Gameover; which disguises itself as legitimate software and steals bank details, and does not require a centralized server to send the details back, making it effectively untraceable; IoT device attacks, which target devices connected to the Internet of Things, such as modern cars, houses that run on a home network device, even as far as pacemakers and other medical equipment. Viruses and other malware programs are always going to be a part of software and computing, which is why modern day advancements in cyber security are always required.(safetydetectives.com)/</p><br></br>
+
+            <p>Computer hacking is the idea of entering into a computer network without permission to do so. There are many different tools that hackers use. Some of these include; Botnets (a botnet is a network of computers running bots under the control of a bot herder), Browser hijacks, Denial of Service Attacks (DDoS stands for Distributed Denial of Service. This type of attack involves sending large amounts of traffic from multiple sources to a service or website, intending to overwhelm it), Ransomware, Rootkits (are a kind of malware that can give a threat actor control of your computer without your consent or knowledge), Trojan Horse, Viruses and Worms.(malwarebytes.com)</p><br></br>
+
+            <p>Many modern day governments and militaries have chosen to employ notorious or criminal hackers into their ranks to use cyber based warfare against enemy factions, with many predicting that the future of warfare lies in that of the cyber world. When considering that over several pedabytes of data is transmitting across the internet every second, it is understandable why certain factions would want to monitor this information for potential threats. </p><br></br>
+
+            <p>Currently, cybersecurity advancements are being made everyday, with blockchain technologies being the forefront of these current advancements. Blockchain technology is the practice of securing large groups of data together and connecting them via cryptography, making it near impossible for hackers to break in. Of course, this leads to other means of hacking such as social engineering, to gain access by influencing the humans working on the tasks. </p><br></br>
+
+            <p>There are other drawbacks, such as the current inefficiency of the technology or the costs needed to implement it. Other cybersecurity network improvements are protocols such as Zero Trust, which require all users to authenticate themselves to a greater extent before allowing them into the network, thereby reducing the chances of an anonymous bad actor gaining access and causing damage to the network before escaping.</p><br></br>
+
+            <p>Zero Trust technology raises many ethical and philosophical questions, such as how far will technology go before each human being is given a unique identifier, effectively reducing human beings down to a complex series of alphanumeric codes, and making it so that each person is tracked and tagged, in order to access modern technology. There are other questions as well such as that of privacy. If a user’s data is forever linked to a unique identifier, then there will always be a record of their digital footprint. Each person’s thoughts, feelings and curiosities will always be available in a digital format, despite reassurances of privacy and inaccessibility. </p><br></br>
+
+            <p>The impact this would have on society as a whole would be unthinkable, as it would reshape our very definitions of rights to privacy, individuality and trust. In order to be granted a high-ranking government position, for example, would a person’s entire digital footprint need to be examined? If so, by whom? Would there be tiers of trust and acceptability in order to work specific jobs? Or live in certain areas? Many of these concerns are shared and outlined in modern media such as Black Mirror or Mr. Robot, however, the real life implications and potential ramifications are far reaching and near impossible to fully comprehend. As technology increases, so does our seeming dependence upon it, so does the potential damage that can be caused by bad actors and malicious intent. There may come a time where a job such as a data filterer may exist, one who has to meticulously comb through a person’s digital footprint for potentially undesirable traits or influences. </p><br></br>
+
+            <p>Cybersecurity as it currently exists today will eventually be seen as primitive, as a by-product of a hybrid world that was still able to exist offline, and one where a user’s device or data being lost or damaged would not be life changing. One where a person could still choose to remain largely offline, with only convenience being impacted. Cybersecurity will inevitably march in lock-step with each technological advancement, as it will inevitably pertain to the safety and livelihoods of those who depend on it. Each step forward in medical, transport and utilities that rely on technology will also rely as heavily on cybersecurity, otherwise entire cities and millions of lives could be at stake. Just as a wooden lock was designed to protect a family living inside of a wooden house, so too will cybersecurity be used to protect families and people living inside of an ever-increasing digital world. </p><br></br>
+            <h2>References:</h2>
+            <ol>
+              <li>
+                <a className='external-link' href="https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security">What is cybersecurity?</a>
+              </li>
+              <li>
+                <a className='external-link' href="https://www.safetydetectives.com/blog/most-dangerous-new-malware-and-security-threats/">10 most dangerous virus & malware threats.</a>
+              </li>
+              <li>
+                <a className='external-link' href="https://www.cisco.com/c/en_uk/products/security/what-is-network-security.html">What is network security?</a>
+              </li>
+              <li>
+                <a className='external-link' href="https://www.malwarebytes.com/hacker">What is hacking?</a>
+              </li>
+              <li>
+                <a className='external-link' href="https://www.fbi.gov/news/stories/morris-worm-30-years-since-first-major-attack-on-internet-110218#:~:text=At%20around%208%3A30%20p.m.,grinding%20computers%20to%20a%20halt.">The Morrison Virus</a>
+              </li>
+            </ol>
             </p>
           </div>
           <div className='ittechnologies-raspberrypi'>

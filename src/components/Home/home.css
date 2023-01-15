@@ -152,3 +152,14 @@ img {
     font-size: 38px;
   }
   }
+
+
+/* ----Set the styling for the IT Technologies links------ */
+.external-link {
+  color: #eee;
+}
+
+.external-link:hover {
+  color: var(--color-primary-variant);
+  transition: ease-in-out 200ms;
+}
