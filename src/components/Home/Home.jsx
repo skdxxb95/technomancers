@@ -39,21 +39,9 @@ const Home = () => {
               {/*----- BRODIE'S INTRODUCTION CONTENT ----*/}
               <h3>Brodie W.</h3>
               <p>
-                I'm Brodie, I'm 27 years old and I was born in Far North Queensland, Australia. I grew up on a 
-                sugar cane farm, in a village of 300 people. My first introduction to anything technology wise was
-                watching my friend's older brothers playing games on the computer, and teaching me how to take care
-                of our home computer by running disk optimisations and waiting for it to load correctly before use.
-                Eventually, I was drawn in to programming and networking by taking ICT in high school on the Sunshine
-                Coast. I never took IT at university, which is something I regret. However, I never forgot how much
-                I loved the feeling of solving a programming problem or understanding how a network functions. 
-                When I was 21, I applied for a Sales position at an IT company, and was shocked when the owner called
-                and asked me to apply for the role of Lead Web Developer, despite only casually learning web development
-                online and working as a security guard at the time. I applied and was successful, and spent the next 4
-                years working closely with software and web developers. It drew me to the field even further, and after
-                another small stint in security, settled on formally studying software development at a university. 
-                Now, I am studying online at RMIT whilst living in Manchester, England with my fiance and our two year
-                old daughter. I love studying online and I love RMIT, I can't wait for each new term to learn something
-                completely different.
+                Hi I'm Brodie, I'm 27 years old, I live in Manchester England currently with my fiance and our 
+                two year old daughter. I love programming, martial arts and music. This year I'll be studying 
+                programming even further as well as two minor elected topics in German. 
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
