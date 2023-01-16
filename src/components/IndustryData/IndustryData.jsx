@@ -18,7 +18,7 @@ Sarah - ICT Project Manager (Digital Healthcare) (Australian Government - Jobs a
 Sam K - Business Improvement Specialist (Specialisation of Management Consultant) (Australian Government - Jobs and Skills, 2022) (Australian Government - Labour Market Insights, 2023)<br></br><br></br>
 Brodie - Senior .NET Developer (Specialisation of Developer Programmer) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 Sam B- Full Stack Developer (Specialisation of Developer Programmer) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
-Allyson - ICT Business/Systems Analyst (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
+Ally - ICT Business/Systems Analyst (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 Damian - Cyber Security Analyst (Specialisation of ICT Security) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 
           <br></br>
