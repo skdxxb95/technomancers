@@ -118,6 +118,7 @@ const TeamProfile = () => {
             <br></br><br></br>
             I play music fairly regularly either on my own, with my band, Ally And The Cats or as a back up musician and vocalist. With the new knowledge I am currently acquiring I will soon get a music website up and running. For now I just have a Facebook page.
             <br></br><br></br>
+            I am involved in some environmental projects including Habitat 141 with Greening Australia which aims to create a wildlife corrider from the River Murray to the coast. Interested in all things recyclable, reuseable and sustainable, and renewable energies.
             </p>
             {/*------ THIS IS WHERE YOU STOP ------*/}
             {/*------ THIS IS WHERE YOU STOP ------*/}
