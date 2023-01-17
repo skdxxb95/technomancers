@@ -23,7 +23,10 @@ const Home = () => {
               {/*----- SARAH'S INTRODUCTION CONTENT ----*/}
               <h3>Sarah S.</h3>
               <p>
-                ....'s introduction
+              Hi I'm Sarah Sinclair, Student S3998043. My work experience is in medical administration in both public and private healthcare. My hobbies include watching netball, walking, and spending time with family and friends.
+              My interest in IT evolved from my current role working on the side of the business for a software as a service (Saas). My experience in IT is limited and has varied across different roles in different organisations.
+              I have experience with being part of team rolling out software solutions to different parts of the business.
+              Our team have democratically voted our name to be <b>Technomancers</b>. This came from an AI generated list of names for IT groups.
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
@@ -53,7 +56,7 @@ const Home = () => {
                 <br></br><br />
                 I have spent the most of my life working in retail, fortunately for me it has been hardware rather the department stores. Even with that I have still been 'into' and love Computers. Every desktop PC I use at home is built by me, for me. I have kept my eye on the changing and evolving nature of the IT universe, and love reading up on the latest breakthroughs in all areas. 
                 <br /><br />
-                I am Australian born and raised been. I have been living, schooling, working and playing in brisbane nearly my entire life. I have now reached a point in my life where I need to get out of the physical labour work, and find something that will let me keep working without placing any unnecessarily large strains on my body. With my interest in IT, and security concious mindset. Cyberesecurity is where I want to be.
+                I am Australian born and raised. I have been living, schooling, working and playing in brisbane nearly my entire life. I have now reached a point in my life where I need to get out of the physical labour work, and find something that will let me keep working without placing any unnecessarily large strains on my body. With my interest in IT, and security concious mindset. Cyberesecurity is where I want to be.
                 </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>

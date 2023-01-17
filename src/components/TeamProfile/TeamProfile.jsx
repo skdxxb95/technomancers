@@ -36,7 +36,7 @@ const TeamProfile = () => {
             <h2>Sarah Sinclair: </h2>
             <img className='avatar' src={AVATAR}></img>
             <p>
-            I am Australian born with parents who have a rich mix of nationality including Irish, Indian, Italian, and Scottish. I grew up in Melbourne and after finishing high school I completed two years of further education at TAFE studying office (business) administration.            <br></br>
+            I am Australian born with parents who have a rich mix of nationality including Irish, Indian, Italian, and Scottish. I grew up in Melbourne and after finishing high school I completed two years of further education at TAFE studying office (business) administration. 
             <br></br><br></br>
             Since completing further study, I have worked in administration roles in small business such as working as an assistant accountant for a small accounting firm, and an office manager in the textile industry. I then moved on to working in public health care where I have remained for many years. I commenced in payroll and then moved into Human Resources, where I worked in recruitment advertising for several years. While in these roles I completed two Diplomas, Management and Human Resource Management.
             <br></br><br></br>
