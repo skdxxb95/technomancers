@@ -245,7 +245,7 @@ DG: Yeah, but that’s the thing, it didn’t exist before! You made it! Like th
 <br></br> 
 <p>31:42</p>
 <br></br>
-<p>AH: Can you please share an example of what you do that best captures the essence of the IT industry?</P>
+<p>AH: Can you please share an example of what you do that best captures the essence of the IT industry?</p>
 <br></br>
 <p>31:52</p>
 <p>DG: I really think that the core of the IT industry is making computers work for people. I think about 70% of the IT industry doesn’t understand that part. That the whole point of the game is to make computers do things for people there’s no point to it otherwise we don’t make  computers do things for computers that doesn’t help anyone that doesn’t do anything the whole point is to make things better for people so I guess the aspect of my work that I like the best is the fact that I as a particularly skilled professional my job is to talk to the people who want stuff done and to translate that from what they want into the code and the infrastructure and the testing and the all of that stuff that goes behind making stuff happen that is what I do and that is the magic, that translation between I have an idea and I want the computer to help me do this and then my job is to make that happen, that’s what I love about it that’s the best part of the whole job, that I can do that, I can go yeah, I delivered the thing you want. </p>
