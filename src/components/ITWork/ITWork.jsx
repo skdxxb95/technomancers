@@ -11,16 +11,14 @@ const ITWork = () => {
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
-          <div className='itwork-transcript'>
-            <h1 align = "center"> Transcript of Interview Between</h1>
+          <div className='itwork-title'>
+          <h1 align = "center"> Transcript of Interview Between</h1>
             <h1 align= "center"> IT Specialist David Goh</h1>
             <h1  align= "center"> and </h1> 
             <h1 align="center">TechnoMancers TeamMembers</h1>
             <h1 align="center">Ally Harper and Samuel Bruce</h1>
-                        
-            <br></br>
-
-
+          </div>
+          <div className='itwork-transcript'>
             <p>00:08</p>
             <br></br>
             <p> AH: Good evening David and thank you for agreeing to do this interview with me this evening. How has your day been? </p> 
