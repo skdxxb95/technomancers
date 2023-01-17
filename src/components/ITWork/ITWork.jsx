@@ -101,7 +101,8 @@ const ITWork = () => {
 <br></br>
 <p>15:00</p>
 <br></br>
-<p> DG: You got to remember how to find it. Remember how to search for it and find it. That’s the real trick. You can’t possibly remember it all. I do remember a lot but I look up everything all the time. </p>
+<p> 
+DG: You got to remember how to find it. Remember how to search for it and find it. That’s the real trick. You can’t possibly remember it all. I do remember a lot but I look up everything all the time. </p>
 <br></br>
 <p>15:16</p>
 <br></br>
