@@ -106,14 +106,15 @@ const TeamProfile = () => {
             {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
             {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
             {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
-            <h2>Allyson Harper: </h2>
+            <h2>Ally Harper: </h2>
             <img className='avatar' src={AVATAR}></img>
             <p>
-            I’ve always been willing to give anything a go. I think my resume reflects that. I taught music some years ago from mid year for 6 months at a P-12 school when they were unable to get a real music teacher. 
+            I’ve always been willing to give anything a go. I think my resume reflects that. I taught music some years ago from mid year for 6 months at a P-12 school when they were unable to get a qualified music teacher. 
             <br></br><br></br>
             Mostly to the secondary pupils but a few hours with a large group of the primary school age students. It was a lot of fun.
+            It was a job that I look back fondly at and would not hesitate to do again.
             <br></br><br></br>
-            Unfortunately a teacher did apply for the position at the end of the school year and therefore I did not continue in that role the following year. It was a job that I look back fondly at and would not hesitate to do again.
+            I also worked and trained in viticulture and enology, the whole range of the wine making process from growing the grapes to producing the wine.
             <br></br><br></br>
             I play music fairly regularly either on my own, with my band, Ally And The Cats or as a back up musician and vocalist. With the new knowledge I am currently acquiring I will soon get a music website up and running. For now I just have a Facebook page.
             <br></br><br></br>
