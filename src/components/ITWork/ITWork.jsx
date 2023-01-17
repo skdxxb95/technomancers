@@ -91,7 +91,7 @@ AH: Yeah, we’ve been learning a little bit about the cloud. So who else do you
 
 <p>07:20 </p>
 <br></br>
-<p>AH: What aspects of your work do you spend the most time on?</P>
+<p>AH: What aspects of your work do you spend the most time on?</p>
 <br></br>
 <p>07:27</p>
 <br></br>
@@ -99,7 +99,7 @@ AH: Yeah, we’ve been learning a little bit about the cloud. So who else do you
 <br></br>
 <p>08:57</p>
 <br></br>
-<p>AH: Samuel, Do you have any questions in regards to that?</P>
+<p>AH: Samuel, Do you have any questions in regards to that?</p>
 <br></br>
 
 <p>09:07</p>
