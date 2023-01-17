@@ -19,11 +19,13 @@
     margin-bottom: 3rem;
 }
 
-.itwork-content p {
+.itwork-content > div {
     color: var(--color-white);
     background: var(--color-primary-variant);
     padding: 1rem;
     border: 1px solid transparent;
     border-radius: 1rem;
     border-color: var(--color-primary);
+    margin-bottom: 3rem;
 }
+
