@@ -126,9 +126,7 @@ AH: How do you keep up to date on the latest technologies and trends in the indu
 <br></br>
 <p>DG: [Laughing] There’s this famous quote from Alice Through The Looking Glass, the Red Queen says to Alice “You have to run very fast just to stay on the spot” and that is the world of IT and programming and all IT is like that. I’ve been around long enough, when did I start this career? Yeah, nearly 30 years ago, so I’ve seen a lot of, there’s a lot of layers of development that have cropped up over the time, there’s a lot a of repetition in that, ultimately most programming languages are the same its just that’s there’s a different tool box or a different libraries available for use so its sort of a matter of shifting to new technologies when the time is right and it depends on what kind of jobs your doing when that’s appropriate some industries are quicker to jump on new programming languages than others from where I sit is a little more not on the leading edge but behind the leading edge. Once a programme starts getting popular I look at it so I start looking at that. I aim to and always have gone direct to source documentation for stuff cos that works better for the breadth of stuff that I do because I am what they call a full-stack developer arranging that and a bit further because I do DevOps. As well I start all the way from the ground of the system all the way to the stuff on the front end that the user interacts with. You can’t possibly remember all of it so its really important to be able to look up the documentation for the system or the libraries and languages that you are using so you can go “ok so how am I supposed to do this particular bit?” And so being able to look that up and do that research as you go is really critical, often I specifically search places like Stack Exchange or  Unix exchange? There’s a whole lot of forums that cover specific technologies that exist that you can jump into and search for questions there’s a little bit of skill required in interpreting all of the answers in this quarter so tricky. I guess I and other IT professionals from previous workplaces query each other on social media feeds to so we talk about what’s going on in our jobs, that’s how we keep up with each other. Ah, and I have a subscription to Ars Technica which is a technology focused journal, internet news site I guess.</p>
 <br></br> 
-<p>
-14:56
-</p>
+<p>14:56</p>
 <br></br>
 <p>AH: I don’t know how you remember half the stuff you remember so…..
 </p>
@@ -194,8 +192,8 @@ DG: I generally, if we haven’t got one I put one in, but usually I just have s
 <p>AH: What do you find most challenging about your position?
 </p>
 <br></br>
-<p>24:35
-</p>DG: I think sometimes trying to figure out what the real priorities are, that’s not always easy, and sometimes the non-technical people don’t know they want and what’s possible so there’s always a challenge in articulating and riding the line between educating and saying this is what is possible and this is what isn’t possible this is how long the different options are going to take. That is the trickiest part of the job communicating to non-technical the complexity behind what it is you’re doing and working it all out.</p>
+<p>24:35</p>
+<p>DG: I think sometimes trying to figure out what the real priorities are, that’s not always easy, and sometimes the non-technical people don’t know they want and what’s possible so there’s always a challenge in articulating and riding the line between educating and saying this is what is possible and this is what isn’t possible this is how long the different options are going to take. That is the trickiest part of the job communicating to non-technical the complexity behind what it is you’re doing and working it all out.</p>
 <br></br>
 <p>
 25:56</p>
