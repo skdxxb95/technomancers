@@ -217,7 +217,9 @@ const ITWork = () => {
 
           </div>
           <div className='itwork-results'>
-            Hello
+            <p>
+              Second Text goes here.
+            </p>
           </div>
           {/*------ THIS IS WHERE YOU STOP ------*/}
           {/*------ THIS IS WHERE YOU STOP ------*/}
