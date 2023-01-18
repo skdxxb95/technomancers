@@ -31,7 +31,11 @@ const GroupReflection = () => {
               {/*----- BRODIE'S INTRODUCTION CONTENT ----*/}
               <h3>Brodie W.</h3>
               <p>
-                Put group reflection here.
+                I've felt that overall the group project and first task for the Technomancers has been a 
+                resounding success. We pulled together across multiple different timezones to successfully 
+                assign jobs, assist each other with learning and applying new skills to create something 
+                to be proud of. Everybody played to their strengths and communicated clearly when they were 
+                and were not feeling comfortable finishing a task.
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
