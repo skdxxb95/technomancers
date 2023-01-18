@@ -1,3 +1,7 @@
+/*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
+/*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
+/*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
+
 .groupreflection-content {
     width: var(--container-width-lg);
     margin: auto;
@@ -6,6 +10,7 @@
 }
 
 .groupreflection-content h1 {
+    margin-top: 3rem;
     text-align: center;
 }
 
@@ -21,5 +26,4 @@
     border: 1px solid transparent;
     border-radius: 1rem;
     border-color: var(--color-primary);
-    margin-bottom: 3rem;
 }

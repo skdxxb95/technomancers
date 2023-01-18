@@ -9,7 +9,11 @@ const ITWork = () => {
           <h1>IT Work</h1>
           <h3>From the perspective of IT professional David Goh</h3>
           <h5>Interviewed by Ally Harper and Samuel Bruce</h5>
-          
+          <div className='itwork-video'>
+            <iframe src="https://drive.google.com/file/d/1QegZamYd0A9FywUnYpdEPOwJit8F8yDC/preview" width="640" height="480" allow="autoplay"></iframe>
+            <i><small>Unfortunately there were some troubles David's audio, though</small></i>
+            <i><small>the transcript is displayed below.</small></i>
+          </div>
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}

@@ -2,6 +2,14 @@
 /*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
 /*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
 
+.itwork-video {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
 .itwork-content {
     width: var(--container-width-lg);
     margin: auto;
@@ -18,7 +26,7 @@
     margin-bottom: 3rem;
 }
 
-.itwork-content > div {
+.itwork-results {
     color: var(--color-white);
     background: var(--color-primary-variant);
     padding: 1rem;
@@ -30,6 +38,13 @@
 
 .itwork-transcript {
     font-size: 16px;
+    color: var(--color-white);
+    background: var(--color-primary-variant);
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    border-color: var(--color-primary);
+    margin-bottom: 3rem;
 }
 
 .itwork-content h2 {
