@@ -57,9 +57,9 @@ const Home = () => {
               {/*----- DAMIAN'S INTRODUCTION CONTENT ----*/}
               <h3>Damian W.</h3>
               <p>
-                Hi, I'm Damian Whitman. RMIT Student number S3990599. I am a Huge Geek, whether it Games, Anime, Sci-Fi/Fantsy, or even Tabeltop. I love it all. 
+                Hi, I'm Damian Whitman. RMIT Student number S3990599. I am a Huge Geek, whether its Games, Anime, Sci-Fi/Fantsy, or even Tabeltop. I love it all. 
                 <br></br><br />
-                I have spent the most of my life working in retail, fortunately for me it has been hardware rather the department stores. Even with that I have still been 'into' and love Computers. Every desktop PC I use at home is built by me, for me. I have kept my eye on the changing and evolving nature of the IT universe, and love reading up on the latest breakthroughs in all areas. 
+                I have spent most of my life working in retail, fortunately for me it has been hardware rather the department stores. Even with that I have still been 'into' and love Computers. Every desktop PC I use at home is built by me, for me. I have kept my eye on the changing and evolving nature of the IT universe, and love reading up on the latest breakthroughs in all areas. 
                 <br /><br />
                 I am Australian born and raised. I have been living, schooling, working and playing in brisbane nearly my entire life. I have now reached a point in my life where I need to get out of the physical labour work, and find something that will let me keep working without placing any unnecessarily large strains on my body. With my interest in IT, and security concious mindset. Cyberesecurity is where I want to be.
                 </p>

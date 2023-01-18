@@ -126,7 +126,22 @@ Damian - Cyber Security Analyst (Specialisation of ICT Security) (Australian Gov
           </p>
           <br /><br />
           <p>
-            
+            After carefully looking over and reviewing all the information and data provided to us from;<br />            
+           <a href='https://rmit.instructure.com/courses/96273/files/27115682?wrap=1'>Australian Tech Future - Industry.gov.au</a><br />
+           <a href=''>Skills Priority List June 2021</a><br />
+           <a href=''>ACS Deloitte Australia's Digital Pulse</a><br />
+           <a href=''>Labour Market Insights</a> (soon to be archived and replaced with) <a href='https://www.jobsandskills.gov.au/'>JobsandSkills.gov.au</a><br /><br />
+           As well as the provided Burning Glass Data 
+           <br /><br />
+           As this data is currently 4 years out of date. It’s impact on career choice would be minimal and could only serve as an outline and guide for people to better understand the responsibilities and requirements of the job they are going for. We would need more up to date information in order for it to have a better or bigger impact on our choice. I will leave it up to each member of Technomancer’s to give you their personal feelings on the matter though. <br />
+           <br />
+           <b>Allyson:</b><br /><q>Possibly. My ideal job is one I can do remotely, but I am finding security and coding fascinating. I will reserve my decision until I have furthered my studies somewhat. The more I study the more interesting the whole gamut of IT becomes.</q><br /><br />
+           <b>Brodie:</b><br /><q>I STILL NEED BRODIES ANSWER!!!!</q><br /><br />
+           <b>Damian:</b><br /><q>After trawling through more webpages than I care to count and reading more in the last 2 weeks then I have in the last 2 years (and that is a lot) I am not going to change my opinion on my chosen ideal job. It has however presented several options and steppingstones to my ideal job. And Highlighted a few extra skills I should acquire on the journey.</q><br /><br />
+           <b>Sam B:</b><br /><q>As someone who has recently completed their studies in cybersecurity, I have made the decision to further my education and skills in software development by enrolling in a Bachelor of IT program at RMIT. Both fields have always interested me, and I believe that combining my knowledge and skills in both areas will make me a valuable asset in the workforce. After researching data from Burning Glass, I am even more certain that pursuing a career in software development with a focus on cybersecurity is the right path for me. In today's workforce, it is crucial to have a diverse range of skills and knowledge, and I am confident that my background in cybersecurity and my interest in software development will make me an asset to any organization. To ensure that I am providing the best possible service to my future clients or employers, I am committed to continuing my education and staying up to date on the latest developments and trends in both fields.</q><br /><br />
+           <b>Sam K:</b><br /><q>After looking into burning glass data, I can safely say that my ideal job will be remaining the same, as it is one that I hold close to my goals in life, while my ideal job has not changed, the option to further expand my knowledge in other areas has become apparent with the information provided about burning glass data. As stated above, any form of change to my ideal career path would be at most only very minor.</q><br /><br />
+           <b>Sarah:</b><br /><q>My opinion of my ideal job has not changed. The role’s skill set will continue to grow into the future as a required and in demand role in any industry, not just health care. This information assisted in understanding the skill areas that I will need to expand on.</q><br /><br />
+
           </p>
           {/*------ THIS IS WHERE YOU STOP ------*/}
           {/*------ THIS IS WHERE YOU STOP ------*/}
