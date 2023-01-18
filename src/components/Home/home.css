@@ -62,12 +62,12 @@ img {
     width: var(--container-width-lg);
     margin: 4.5rem auto;
     display: grid;
-    grid-template-columns: 30% 55%;
+    grid-template-columns: 50% 50%;
     gap: 10%;
     min-height: calc(100vh - 150px - 50px);
 }
 
-.introduction-content > div {
+.introduction-content {
     color: var(--color-white);
     background: var(--color-primary-variant);
     padding: 1rem;
@@ -76,6 +76,7 @@ img {
     border-color: var(--color-primary);
     font-size: 17px;
     margin-bottom: 2rem;
+    min-height: fit-content;
 }
 
 .introduction-content > div h3, h4 {
