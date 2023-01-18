@@ -60,10 +60,7 @@ const GroupReflection = () => {
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
         </div>
-            {/*------ THIS IS WHERE YOU STOP ------*/}
-            {/*------ THIS IS WHERE YOU STOP ------*/}
-            {/*------ THIS IS WHERE YOU STOP ------*/}
-        </div>
+      </div>
     </section>
   )
 }
