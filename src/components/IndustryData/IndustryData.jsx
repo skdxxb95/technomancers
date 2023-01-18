@@ -18,7 +18,7 @@ Sarah - ICT Project Manager (Digital Healthcare) (Australian Government - Jobs a
 Sam K - Business Improvement Specialist (Specialisation of Management Consultant) (Australian Government - Jobs and Skills, 2022) (Australian Government - Labour Market Insights, 2023)<br></br><br></br>
 Brodie - Senior .NET Developer (Specialisation of Developer Programmer) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 Sam B- Full Stack Developer (Specialisation of Developer Programmer) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
-Allyson - ICT Business/Systems Analyst (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
+Ally - ICT Business/Systems Analyst (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 Damian - Cyber Security Analyst (Specialisation of ICT Security) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 
           <br></br>
@@ -57,12 +57,76 @@ Damian - Cyber Security Analyst (Specialisation of ICT Security) (Australian Gov
             <li>Experience interpreting licensing terms and conditions (ITAM)</li>
             <li>ITIL, ITAM, and/or SAM training/certification </li>          
           </ul>
-          <br></br><br></br>        
-          Occaecati nulla molestias voluptas nostrum facilis est deserunt. Placeat pariatur sint natus ab. Ipsam est repellendus maiores quod. Aut perferendis laborum aut.
+          <br></br><br></br>
+          </p>
+          <br></br><br></br>
+          <p>              
+          The skills listed below are the rankings for the IT=Specific skills as presented in the currently provided data, please note that this data is from four years ago and does not reflect current rankings.
+          <ol>
+            <li>SQL</li>
+            <li>Javascript</li>
+            <li>Java</li>
+            <li>Business Management</li>
+            <li>Project Management</li>
+            <li>Microsoft C#</li>
+            <li>Sotware Programming</li>
+            <li>.Net Programming</li>
+            <li>Oracle</li>
+            <li>ITIL</li>
+            <li>Python</li>
+            <li>Scrum</li>
+            <li>Business Processes</li>
+          </ol>
+          <br />
+          The skills listed below could not be ranked from the data.      
+          <br></br><br />
+          <ol>
+            <li>HL7</li>
+            <li>Rhapsodty</li>
+            <li>FHIR</li>
+            <li>Information Security</li>
+            <li>VB.NET</li>
+            <li>Microsoft Project</li>
+            <li>Project Server/Sharepoint</li>
+            <li>ITAM</li>
+            <li>Typescript</li>
+            <li>React</li>
+            <li>node.js</li>
+            <li>Dynamic 365</li>
+          </ol>
+          <br /><br />
+          </p>
+          <br /><br />
+          <p>
+          What we have listed below are the General Skill, which have been ranked in terms of demand from employers.
+          <br /><br />
+          <ol>
+            <li>Communication</li>
+            <li>Problem Solving</li>
+            <li>Organizing and Managing Multiple Priorities/Prjoects</li>
+            <li>Writing</li>
+            <li>Ability to collaborate and work in a team environment</li>            
+            </ol>
+            <br />
+            The following General Skills were not available in the provided data and could not be ranked, and are not listed in any specific order.
+            <ol>
+            <br />
+            <li>Interpersonal Skills</li>
+            <li>Time Management</li>
+            <li>Ability to meet deadlines</li>
+            <li>Negotiation</li>
+          </ol>
           <br></br>
-          Ut adipisci quas ut esse. Aliquid sit ab beatae sed. Dignissimos sunt tempore recusandae earum omnis. Et animi autem velit culpa reprehenderit voluptatum. Et aut natus exercitationem qui. Velit molestias reprehenderit quo et repudiandae.
-          <br></br>
-          Placeat ipsa voluptas minima in laudantium doloribus et. Quasi iusto nisi accusantium amet reprehenderit. Voluptas dolorem repellat debitis ut voluptatem dolores. Maxime amet est eum quis itaque quibusdam eos. Deserunt nemo unde facere fuga enim minima repellat nihil.
+          The three highest ranked IT-Specific skill that were not listed in out data set are listed below. All are useful to our Ideal Jobs, but were not specifically listed in the job’s skill requirements.
+          <ol>
+            <li>Microsort Windows </li>
+            <li>SAP</li>
+            <li>Building Relationships</li>            
+          </ol>
+          </p>
+          <br /><br />
+          <p>
+            
           </p>
           {/*------ THIS IS WHERE YOU STOP ------*/}
           {/*------ THIS IS WHERE YOU STOP ------*/}

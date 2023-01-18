@@ -23,7 +23,10 @@ const Home = () => {
               {/*----- SARAH'S INTRODUCTION CONTENT ----*/}
               <h3>Sarah S.</h3>
               <p>
-                ....'s introduction
+              Hi I'm Sarah Sinclair, Student S3998043. My work experience is in medical administration in both public and private healthcare. My hobbies include watching netball, walking, and spending time with family and friends.
+              My interest in IT evolved from my current role working on the side of the business for a software as a service (Saas). My experience in IT is limited and has varied across different roles in different organisations.
+              I have experience with being part of team rolling out software solutions to different parts of the business.
+              Our team have democratically voted our name to be <b>Technomancers</b>. This came from an AI generated list of names for IT groups.
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
@@ -44,21 +47,9 @@ const Home = () => {
               {/*----- BRODIE'S INTRODUCTION CONTENT ----*/}
               <h3>Brodie W.</h3>
               <p>
-                I'm Brodie, I'm 27 years old and I was born in Far North Queensland, Australia. I grew up on a 
-                sugar cane farm, in a village of 300 people. My first introduction to anything technology wise was
-                watching my friend's older brothers playing games on the computer, and teaching me how to take care
-                of our home computer by running disk optimisations and waiting for it to load correctly before use.
-                Eventually, I was drawn in to programming and networking by taking ICT in high school on the Sunshine
-                Coast. I never took IT at university, which is something I regret. However, I never forgot how much
-                I loved the feeling of solving a programming problem or understanding how a network functions. 
-                When I was 21, I applied for a Sales position at an IT company, and was shocked when the owner called
-                and asked me to apply for the role of Lead Web Developer, despite only casually learning web development
-                online and working as a security guard at the time. I applied and was successful, and spent the next 4
-                years working closely with software and web developers. It drew me to the field even further, and after
-                another small stint in security, settled on formally studying software development at a university. 
-                Now, I am studying online at RMIT whilst living in Manchester, England with my fiance and our two year
-                old daughter. I love studying online and I love RMIT, I can't wait for each new term to learn something
-                completely different.
+                Hi I'm Brodie, I'm 27 years old, I live in Manchester England currently with my fiance and our 
+                two year old daughter. I love programming, martial arts and music. This year I'll be studying 
+                programming even further as well as two minor elected topics in German. 
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
@@ -66,14 +57,18 @@ const Home = () => {
               {/*----- DAMIAN'S INTRODUCTION CONTENT ----*/}
               <h3>Damian W.</h3>
               <p>
-                ....'s introduction
-              </p>
+                Hi, I'm Damian Whitman. RMIT Student number S3990599. I am a Huge Geek, whether it Games, Anime, Sci-Fi/Fantsy, or even Tabeltop. I love it all. 
+                <br></br><br />
+                I have spent the most of my life working in retail, fortunately for me it has been hardware rather the department stores. Even with that I have still been 'into' and love Computers. Every desktop PC I use at home is built by me, for me. I have kept my eye on the changing and evolving nature of the IT universe, and love reading up on the latest breakthroughs in all areas. 
+                <br /><br />
+                I am Australian born and raised. I have been living, schooling, working and playing in brisbane nearly my entire life. I have now reached a point in my life where I need to get out of the physical labour work, and find something that will let me keep working without placing any unnecessarily large strains on my body. With my interest in IT, and security concious mindset. Cyberesecurity is where I want to be.
+                </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
             <div>
               {/*----- ALLY'S INTRODUCTION CONTENT ----*/}
               <h3>Ally H.</h3>
-              <p>Hi, my name is Ally Harper, my student number is s3997602 and I am a member of the RMIT student team Technomancers. I was born in Victoria, Austalia but spent some time as a child living in Britain. I attended Bayswater secondary College and then Swinburne studying viticulture and enology. I am currently employed in a number of fields including bar attendent and musician. I have also taught music in the past. I am hoping to be able to work remotely in the future and there is a high demand for IT personnel, which is one of the reasons I am studying IT. I have a great interest in off grid solar technologies. I would also like to develop my own website and an app. I am finding coding fascinating and have quite an interest in security. Being a part of Technomancers is definitely helping me to learn more about IT, they are a great team with plenty of knowlege in IT. 
+              <p>Hi, my name is Ally Harper, my student number is s3997602 and I am a member of the RMIT student team Technomancers. I was born in Victoria, Australia but spent some time as a child living in Britain. I attended Bayswater secondary College and then Swinburne studying viticulture and enology. I am currently employed in a number of fields including bar attendent and musician. I have also taught music in the past. I am hoping to be able to work remotely in the future and there is a high demand for IT personnel, which is one of the reasons I am studying IT. I have a great interest in off grid solar technologies. I would also like to develop my own website and an app. I am finding coding fascinating and have quite an interest in security. Being a part of Technomancers is definitely helping me to learn more about IT, they are a great team with plenty of knowlege in IT. 
               
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}

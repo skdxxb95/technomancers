@@ -2,15 +2,30 @@
 /*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
 /*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
 
+
 .teamprofile-content {
     width: var(--container-width-lg);
     margin: auto;
     font-size: 17px;
     min-height: calc(100vh - 50px - 50px);
+    display: grid;
+    row-gap: 30px;
+    padding-top: 30px;
+}
+
+.heading {
+    margin: auto;
+    padding: 15px 20px;
+    text-align: center;
 }
 
 .teamprofile-content h1 {
     margin-top: 3rem;
+    text-align: center;
+}
+
+.teamprofile-content h2 {
+    font-size: 30px;
     text-align: center;
 }
 
@@ -20,10 +35,18 @@
 }
 
 .teamprofile-content p {
+    display: grid;
     color: var(--color-white);
     background: var(--color-primary-variant);
     padding: 1rem;
     border: 1px solid transparent;
     border-radius: 1rem;
     border-color: var(--color-primary);
+}
+
+.teamprofile-content .avatar {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    margin: auto;
 }
