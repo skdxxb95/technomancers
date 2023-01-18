@@ -12,7 +12,7 @@ const ITTechnologies = () => {
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           {/*------ THIS IS WHERE YOU ENTER CONTENT ------*/}
           <div className='ittechnologies-machlearn'>
-            <h2>IT Technologies - Machine Learning</h2>
+            <h2>Machine Learning</h2>
             <p>Machine learning falls into a subset of artificial intelligence. Artificial intelligence is a form of computer systems that can perform tasks that would normally require human intelligence. Machine learning is an avenue of making machines have the ability to learn and think and develop themselves. Machine learning is in the area of coding and teaching computer systems to complete task or work and improve on their own.</p>
             <br></br>
             <p>Algorithms are created by machine learning that helps machines better understand and comprehend data. This in turn can allow for machines to then interpret data and make decisions based on the data outcomes. ​(Great Learning Team, 2022)</p>

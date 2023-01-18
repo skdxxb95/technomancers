@@ -157,7 +157,7 @@ const ITWork = () => {
             <p>AH: Just a couple more and these are both pretty sweet questions. Is there anything about the IT profession that you wished the general public understood better?</p>
             <br></br>
             <p>29:30</p> 
-            <p>[Chuckle] I think, it’s a weird one where I think the general public doesn’t understand the complexities of what’s going on. Right? I could spend probably several hundred hours talking through everything that’s involved in delivering a webpage to a user on their smartphone and every device involved in that I can probably articulate it ranging from the servers involved in how you get from the name? to the internet connection to the servers that are delivering the content to the networking devices that are actually channelling all of that to the smartphone itself having a million devices on it but inside the smartphone that are displaying the thing you’re looking at and there is so much there that is just completely invisible to the general public, behind that webpage, that simple webpage apparently, are thousands of devices that have been talked to just to get that one webpage to you and you look at that on your smartphone and you go Oh yeah, I’ve looked up on the internet and there are thousands of devices that have delivered that thing to you and nobody knows that its invisible so I guess in a way I would like the general public to understand that there is that level of complexity but its also crazy, its mad.</p>
+            <p>DG: [Chuckle] I think, it’s a weird one where I think the general public doesn’t understand the complexities of what’s going on. Right? I could spend probably several hundred hours talking through everything that’s involved in delivering a webpage to a user on their smartphone and every device involved in that I can probably articulate it ranging from the servers involved in how you get from the name? to the internet connection to the servers that are delivering the content to the networking devices that are actually channelling all of that to the smartphone itself having a million devices on it but inside the smartphone that are displaying the thing you’re looking at and there is so much there that is just completely invisible to the general public, behind that webpage, that simple webpage apparently, are thousands of devices that have been talked to just to get that one webpage to you and you look at that on your smartphone and you go Oh yeah, I’ve looked up on the internet and there are thousands of devices that have delivered that thing to you and nobody knows that its invisible so I guess in a way I would like the general public to understand that there is that level of complexity but its also crazy, its mad.</p>
             <br></br> 
             <p>31:42</p>
             <p>AH: Can you please share an example of what you do that best captures the essence of the IT industry?</p>
@@ -169,13 +169,13 @@ const ITWork = () => {
             <p>AH: Fabulous! Thank you so much for giving us your time tonight with this interview, we have gone a little bit over time so I do apologise. </p>
             <br></br>
             <p>33:34</p>
-            <p>SB:Yeah, thank you David.</p>
+            <p>SB: Yeah, thank you David.</p>
             <br></br>
             <p>33:37</p>
-            <p> AH:It was wonderful to meet you. </p>
+            <p> AH: It was wonderful to meet you. </p>
             <br></br>
             <p>33:39</p> 
-            <p> SB:Its been great listening. Thank you.</p>
+            <p> SB: Its been great listening. Thank you.</p>
             <br></br>
             <p>33:45</p>
             <p> AH: I'll press end now on the recording........</p>
