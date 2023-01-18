@@ -6,6 +6,7 @@ import './index.css'
 import ITWork from './components/ITWork/ITWork'
 import ITTechnologies from './components/ITTechnologies/ITTechnologies'
 import ProjectIdea from './components/ProjectIdea/ProjectIdea'
+import GroupReflection from './components/GroupReflection/GroupReflection'
 import Navbar from './components/Navbar/Navbar'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 import Footer from './components/Footer/Footer'
@@ -26,6 +27,7 @@ const App = () => {
           <Route path ="/itwork" element={<ITWork />}></Route>
           <Route path ="/ittechnologies" element={<ITTechnologies />}></Route>
           <Route path ="/projectidea" element={<ProjectIdea />}></Route>
+          <Route path ="/groupreflection" element={<GroupReflection />}></Route>
         </Routes>
       <Footer />
       </HashRouter>

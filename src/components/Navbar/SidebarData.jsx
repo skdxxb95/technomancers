@@ -4,6 +4,7 @@ import * as AiIcons from "react-icons/ai";
 import * as GoIcons from "react-icons/go";
 import * as BsIcons from "react-icons/bs";
 import * as MdIcons from "react-icons/md";
+import * as HiIcons from "react-icons/hi"
 
 {/*------ DON'T CHANGE THIS PAGE, IT WILL BREAK THE NAVBAR LINKS ------*/}
 {/*------ DON'T CHANGE THIS PAGE, IT WILL BREAK THE NAVBAR LINKS ------*/}
@@ -44,6 +45,12 @@ export const SidebarData = [
     title: "Project Idea",
     path: "/projectidea",
     icon: <GoIcons.GoCircuitBoard />,
+    cName: "nav-text",
+  },
+  {
+    title: "Group Reflection",
+    path: "/groupreflection",
+    icon: <HiIcons.HiUserGroup />,
     cName: "nav-text",
   },
 ];

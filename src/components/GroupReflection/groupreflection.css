@@ -1,0 +1,25 @@
+.groupreflection-content {
+    width: var(--container-width-lg);
+    margin: auto;
+    font-size: 17px;
+    min-height: calc(100vh - 50px - 50px);
+}
+
+.groupreflection-content h1 {
+    text-align: center;
+}
+
+.groupreflection-content h5 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.groupreflection-content > div {
+    color: var(--color-white);
+    background: var(--color-primary-variant);
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    border-color: var(--color-primary);
+    margin-bottom: 3rem;
+}
