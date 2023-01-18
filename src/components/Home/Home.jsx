@@ -31,7 +31,12 @@ const Home = () => {
               {/*----- SAMUEL K'S INTRODUCTION CONTENT ----*/}
               <h3>Samuel K.</h3>
               <p>
-                ....'s introduction
+                My name is Sam and my student number is s3987667. My nationality is Australian, as is my whole family. I have lived in Bundaberg, Queensland for
+                my whole 21 years of life. My highest level of education is currently Year 12, but I am currently
+                enrolled in both IIT and Programming with RMIT University. My primary hobby when I am not
+                working retail full time is gaming on my new PC which I built on my own with no experience or
+                help apart from YouTube videos. Otherwise, I am spending time with my partner and our cat,
+                rats, and fish.
               </p>
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
