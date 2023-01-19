@@ -31,13 +31,14 @@ const GroupReflection = () => {
             <div>
               {/*----- BRODIE'S INTRODUCTION CONTENT ----*/}
               <h3>Brodie W.</h3>
-              <p>
-                I've felt that overall the group project and first task for the Technomancers has been a 
-                resounding success. We pulled together across multiple different timezones to successfully 
-                assign jobs, assist each other with learning and applying new skills to create something 
-                to be proud of. Everybody played to their strengths and communicated clearly when they were 
-                and were not feeling comfortable finishing a task.
-              </p>
+              <p>Overall, the group project and first task for the Technomancers has been a resounding success. The team was able to pull together effectively despite the challenges posed by working across multiple time zones. The team members were able to assign jobs, assist each other with learning and applying new skills, and create something that the entire team can be proud of.</p>
+              <p>One of the things that went well was the team's ability to play to their strengths. Each member was able to utilize their unique skills and expertise to contribute to the project in a meaningful way. Additionally, the team was able to communicate effectively, with members clearly expressing when they were and were not comfortable finishing a task.</p>
+              <p>However, there are also areas for improvement. One potential area for improvement would be to establish more clear roles and responsibilities for each team member from the beginning of the project. This would help to ensure that everyone is on the same page and that there is less confusion about who is responsible for what.</p>
+              <p>One thing that was surprising was the level of collaboration and cooperation that was achieved despite the team members being in different time zones. The team was able to work seamlessly together and overcame the challenges posed by the time difference.</p>
+              <p>One thing that I have learned about groups is the importance of clear communication and effective teamwork. With a clear plan of action and a team that is willing to work together, it is possible to achieve great things, even when working remotely.</p>
+
+
+
               {/*------ THIS IS WHERE YOU STOP ------*/}
             </div>
             <div>
