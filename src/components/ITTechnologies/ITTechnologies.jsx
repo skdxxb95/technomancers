@@ -93,25 +93,25 @@ const ITTechnologies = () => {
 
             <p>With the changes coming forward with AI vehicles, the impact in which it will have on my future will mainly be the need to invest in an electric/AI vehicle, this comes with the fantastic financial benefits associated with this purchase, the average Australian spends an average of $1465 annually on fuel costs alone (Compare the Market, 2022), with fuel prices constantly rising, it is becoming impractical to continue owning petrol based vehicles in the distant future. With the use of home charging and the installation of solar panels on your home, the need to take time from your day to wait around charging your autonomous vehicle, especially if you have a busy work/life schedule like myself, will greatly increase the amount of time in which can be invested in much more important daily activities, I.e. Family, work, medical  appointments. This is one of the leading reasons in which I can see the need for myself to buy an AI vehicle. Congestion in early morning traffic can also be painful when commuting to my workplace, owning an Ai vehicle completely takes off all stresses of navigating through the busiest parts of traffic and takes all the stress of traversing to what may be a much more stressful day ahead, I know for myself that stress is a key problem in my current workplace and is unhealthy to continue to not find alternative solutions for this. With stress taken out of the equation, my focus can be solely placed on the most challenging of problems within my field of work, which in turn leads to an overall better way of living and this is all thanks to the revolutionary technology imbedded within AI vehicles. With multiple members of my family and a handful of my friends not having the capabilities to operate a motor vehicle, having the accessibility to an AI vehicle will also greatly improve their way of life when needed to perform tasks that others see as simple or straightforward, where they see it as one of the many difficult challenges associated with their daily routines.</p><br></br>
 
-            <p>Sources-
-            History of the Autonomous Car- accessed 4th Jan 2023
-            https://www.titlemax.com/resources/history-of-the-autonomous-car/ 
-            Tesla- accessed 4th Jan 2023
-            https://www.tesla.com/models 
-            ANZ Driverless Vehicle Initiative- accessed 4th Jan 2023
-            https://advi.org.au/driverless-technology/driverless-car-benefits/ 
-            ADAS and Autonomous Vehicles- accessed 4th Jan 2023
-            https://www.autonomousvehicleinternational.com/features/is-camera-only-the-future-of-self-driving-cars.html 
-            TMR QLD- accessed 4th Jan 2023
-            https://www.tmr.qld.gov.au/Community-and-environment/Environmental-management/How-you-can-make-a-difference/Motor-vehicle-pollution#:~:text=Pollutants%20produced%20by%20vehicle%20exhausts,to%20form%20ground%2Dlevel%20ozone. 
-            EARTH.ORG- accessed 4th Jan 2023
-            https://earth.org/pros-and-cons-of-self-driving-cars/ 
-            CNBC- accessed 4th Jan 2023
-            https://www.cnbc.com/2018/08/10/autonomous-vehicles-are-creating-jobs-heres-where.html 
-            ETL- accessed 4th Jan 2023
-            https://etlsolutions.com/which-technologies-will-be-required-for-the-autonomous-car/ 
-            Compare the Market- accessed 4th Jan 2023
-            https://www.comparethemarket.com.au/news/whats-the-average-cost-of-petrol-in-australia/</p>   
+            <h2>References</h2>
+            <p>History of the Autonomous Car- accessed 4th Jan 2023</p>
+            <p>https://www.titlemax.com/resources/history-of-the-autonomous-car/ </p><br></br>
+            <p>Tesla- accessed 4th Jan 2023</p>
+            <p>https://www.tesla.com/models </p><br></br>
+            <p>ANZ Driverless Vehicle Initiative- accessed 4th Jan 2023</p>
+            <p>https://advi.org.au/driverless-technology/driverless-car-benefits/ </p><br></br>
+            <p>ADAS and Autonomous Vehicles- accessed 4th Jan 2023</p>
+            <p>https://www.autonomousvehicleinternational.com/features/is-camera-only-the-future-of-self-driving-cars.html </p><br></br>
+            <p>TMR QLD- accessed 4th Jan 2023</p>
+            <p>https://www.tmr.qld.gov.au/Community-and-environment/Environmental-management/How-you-can-make-a-difference/Motor-vehicle-pollution#:~:text=Pollutants%20produced%20by%20vehicle%20exhausts,to%20form%20ground%2Dlevel%20ozone. </p><br></br>
+            <p>EARTH.ORG- accessed 4th Jan 2023</p>
+            <p>https://earth.org/pros-and-cons-of-self-driving-cars/ </p><br></br>
+            <p>CNBC- accessed 4th Jan 2023</p>
+            <p>https://www.cnbc.com/2018/08/10/autonomous-vehicles-are-creating-jobs-heres-where.html </p><br></br>
+            <p>ETL- accessed 4th Jan 2023</p>
+            <p>https://etlsolutions.com/which-technologies-will-be-required-for-the-autonomous-car/ </p><br></br>
+            <p>Compare the Market- accessed 4th Jan 2023</p>
+            <p>https://www.comparethemarket.com.au/news/whats-the-average-cost-of-petrol-in-australia/</p>   
             </div>
            <div className='ittechnologies-cybersec'>
             <h2>Cybersecurity</h2>
@@ -133,7 +133,7 @@ const ITTechnologies = () => {
             <p>The impact this would have on society as a whole would be unthinkable, as it would reshape our very definitions of rights to privacy, individuality and trust. In order to be granted a high-ranking government position, for example, would a person’s entire digital footprint need to be examined? If so, by whom? Would there be tiers of trust and acceptability in order to work specific jobs? Or live in certain areas? Many of these concerns are shared and outlined in modern media such as Black Mirror or Mr. Robot, however, the real life implications and potential ramifications are far reaching and near impossible to fully comprehend. As technology increases, so does our seeming dependence upon it, so does the potential damage that can be caused by bad actors and malicious intent. There may come a time where a job such as a data filterer may exist, one who has to meticulously comb through a person’s digital footprint for potentially undesirable traits or influences. </p><br></br>
 
             <p>Cybersecurity as it currently exists today will eventually be seen as primitive, as a by-product of a hybrid world that was still able to exist offline, and one where a user’s device or data being lost or damaged would not be life changing. One where a person could still choose to remain largely offline, with only convenience being impacted. Cybersecurity will inevitably march in lock-step with each technological advancement, as it will inevitably pertain to the safety and livelihoods of those who depend on it. Each step forward in medical, transport and utilities that rely on technology will also rely as heavily on cybersecurity, otherwise entire cities and millions of lives could be at stake. Just as a wooden lock was designed to protect a family living inside of a wooden house, so too will cybersecurity be used to protect families and people living inside of an ever-increasing digital world. </p><br></br>
-            <h2>References:</h2>
+            <h2>References</h2>
             <ol>
               <li>
                 <a className='external-link' href="https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security">What is cybersecurity?</a>
