@@ -154,7 +154,7 @@ const ITTechnologies = () => {
             </p>
           </div>
           <div className='ittechnologies-raspberrypi'>
-            <h2>Raspberry Pi's, Arduino's and Other Devices</h2>
+            <h2>Raspberry Pi's, Arduino's, and Other Devices</h2>
             <p>
               In recent years, Raspberry Pi's and Arduinos have gained widespread popularity among hobbyists, educators, and developers. Raspberry Pi's are small, credit-card sized computers that run on a Linux-based operating system and can be used for a variety of tasks, including web browsing, word processing, and programming (Raspberry Pi LTD, n.d.). They have become popular due to their low cost, small size, and versatility, and have been used in applications such as media centres, home automation systems, and even as the brains of robots. Arduinos, on the other hand, are microcontrollers that are designed specifically for use in electronic projects. They can be programmed to control sensors, motors, and other electronic devices, and can be used to build a range of projects, from simple LED displays to more complex systems such as robots and drones. Arduinos are popular due to their ease of use and versatility (The Arduino Team, 2022).
             </p>

@@ -1,4 +1,5 @@
 import React from 'react'
+import PICO from '../../assets/rasppico.jpg'
 import './projectidea.css'
 
 const ProjectIdea = () => {
@@ -8,6 +9,7 @@ const ProjectIdea = () => {
         <div className="projectidea-content">
           <h1>DuckyPass</h1>
           <h5>Our Project Idea.</h5>
+          <img src={PICO}></img>
           <div className='projectidea-body'>
             <p>
               The Raspberry Pi Pico-based USB password manager, called DuckyPass, is a compact and portable device that allows users to securely store and manage their passwords on a USB drive. This device is designed to provide added security and control over password data, as well as convenience and efficiency. It is an ideal solution for people who have multiple online accounts and need to regularly access and update their passwords. DuckyPass is based on the Raspberry Pi Pico, a low-cost, high-performance microcontroller board that provides the power and versatility needed for this device (Raspberry Pi Ltd, 2022). The device is programmed using DuckyScript, a simple scripting language that allows users to easily access their passwords from any computer. With DuckyScript users can automate complex login processes, and the added security measures such as encryption, physical security, and Bluetooth integration provide added protection against unauthorized access and data breaches. 
