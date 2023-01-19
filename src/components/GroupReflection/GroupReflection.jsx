@@ -1,5 +1,6 @@
 import React from 'react'
 import './groupreflection.css'
+import GITHUB from '../../assets/github.png'
 
 const GroupReflection = () => {
   return (
@@ -66,7 +67,20 @@ const GroupReflection = () => {
             <div>
               <h3>Reflections as a Group</h3>
               <p>
-                ***Group reflection of 400 words here***
+              As a group, we have completed the first task as the Technomancers and have reflected on our experiences working together. Our team consisted of a good mix of age groups and IT knowledge, and we were all willing to get involved and contribute from the beginning. One of the challenges we faced was scheduling team meetings with team members on different time zones and differing work and life commitments. However, we were able to work around this by agreeing to a schedule of meetings ahead of time across the timeline of the assessment and then cancelling if not required.
+              </p><br></br>
+              <p>
+              We all brought our own set of skills and experiences to the team, which helped to strengthen our final work product. We were able to talk through problems and discuss work requirements effectively, which exceeded our expectations when we first started the project. One of our weaknesses as a team was our ability to make all meetings throughout the weeks, but we were still able to work together efficiently.
+              </p><br></br>
+              <p>
+              We were able to cooperate well as a team, rotating speaking roles and coexisting with each other. We were able to work well as a democracy and did not need a single team leader. This allowed everyone to have input on every aspect of the project as we went along. However, we agree that a better understanding of what was required would have helped us to see what was going to be needed in each section.
+              </p>
+              <img src={GITHUB}></img>
+              <p>
+                We were able to learn new skills such as using GitBash and React, which made tracking and fixing errors easier. We are proud of what the team has achieved throughout this assignment, both in terms of knowledge gained and skills learned. We believe that the Git commits are an excellent reflection of the team's work, with all our information and data being uploaded after the site's main design was established.
+              </p><br></br>
+              <p>
+                Overall, we have had a positive experience working together as a team. We were able to work well together despite the challenges we faced and were able to learn new skills and knowledge throughout the process. We are looking forward to continuing to work together in the future and achieving even more success.
               </p>
             </div>
         </div>
