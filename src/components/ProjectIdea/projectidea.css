@@ -33,3 +33,11 @@
     border-color: var(--color-primary);
     margin-bottom: 3rem;
 }
+
+.projectidea-body ul {
+    padding-left: 3rem;
+}
+
+.projectidea-references p {
+    margin-top: 2rem;
+}
