@@ -136,19 +136,29 @@ const ITTechnologies = () => {
             <h2>References</h2>
             <ol>
               <li>
-                <a className='external-link' href="https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security">What is cybersecurity?</a>
+                <p>What Is Cybersecurity - National Cybery Security Centre</p>
+                <a className='external-link' target="_blank" href="https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security">Available at: https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security</a>
+                <p>(Accessed: January 05, 2023)</p>
               </li>
               <li>
-                <a className='external-link' href="https://www.safetydetectives.com/blog/most-dangerous-new-malware-and-security-threats/">10 most dangerous virus & malware threats.</a>
+                <p>10 Most Dangerous Virus & Malware Threats 2023 - Safety Detectives</p>
+                <a className='external-link' target="_blank" href="https://www.safetydetectives.com/blog/most-dangerous-new-malware-and-security-threats/">10 most dangerous virus & malware threats.</a>
+                <p>(Accessed: January 10, 2023)</p>
               </li>
               <li>
-                <a className='external-link' href="https://www.cisco.com/c/en_uk/products/security/what-is-network-security.html">What is network security?</a>
+                <p>What Is Network Security? - Cisco</p>
+                <a className='external-link' target="_blank" href="https://www.cisco.com/c/en_uk/products/security/what-is-network-security.html">Available at: https://www.cisco.com/c/en_uk/products/security/what-is-network-security.html </a>
+                <p>(Accessed: January 05, 2023)</p>
               </li>
               <li>
-                <a className='external-link' href="https://www.malwarebytes.com/hacker">What is hacking?</a>
+                <p>Hacking - Malwarebytes</p>
+                <a className='external-link' target="_blank" href="https://www.malwarebytes.com/hacker">Available at: https://www.malwarebytes.com/hacker</a>
+                <p>(Accessed: January 07, 2023)</p>
               </li>
               <li>
-                <a className='external-link' href="https://www.fbi.gov/news/stories/morris-worm-30-years-since-first-major-attack-on-internet-110218#:~:text=At%20around%208%3A30%20p.m.,grinding%20computers%20to%20a%20halt.">The Morrison Virus</a>
+                <p>The Morrison Virus - FBI</p>
+                <a className='external-link' target="_blank" href="https://www.fbi.gov/news/stories/morris-worm-30-years-since-first-major-attack-on-internet-110218#:~:text=At%20around%208%3A30%20p.m.,grinding%20computers%20to%20a%20halt.">Available at: https://www.fbi.gov/news/stories/morris-worm-30-years-since-first-major-attack-on-internet-110218#:~:text=At%20around%208%3A30%20p.m.,grinding%20computers%20to%20a%20halt.</a>
+                <p>(Accessed: January 07, 2023)</p>
               </li>
             </ol>
             </p>
