@@ -68,20 +68,20 @@ const GroupReflection = () => {
             <div>
               <h3>Reflections as a Group</h3>
               <p>
-              As a group, we have completed the first task as the Technomancers and have reflected on our experiences working together. Our team consisted of a good mix of age groups and IT knowledge, and we were all willing to get involved and contribute from the beginning. One of the challenges we faced was scheduling team meetings with team members on different time zones and differing work and life commitments. However, we were able to work around this by agreeing to a schedule of meetings ahead of time across the timeline of the assessment and then cancelling if not required.
+                As a group, we completed the first task as the Technomancers and reflected on our experiences working together. Our team consisted of a diverse mix of age groups and IT knowledge, and we were all willing to actively contribute from the beginning. One of the challenges we faced was coordinating team meetings with members on different time zones and varying work and personal commitments. However, we were able to overcome this by agreeing on a schedule of meetings ahead of time and being flexible with cancellations when necessary. 
               </p><br></br>
               <p>
-              We all brought our own set of skills and experiences to the team, which helped to strengthen our final work product. We were able to talk through problems and discuss work requirements effectively, which exceeded our expectations when we first started the project. One of our weaknesses as a team was our ability to make all meetings throughout the weeks, but we were still able to work together efficiently.
+                We all brought our own unique skills and experiences to the team, which helped to strengthen our final work product. We were able to communicate effectively and discuss work requirements, which exceeded our expectations when we first started the project. One of our weaknesses as a team was our ability to attend all meetings, but we still managed to work together efficiently. 
               </p><br></br>
               <p>
-              We were able to cooperate well as a team, rotating speaking roles and coexisting with each other. We were able to work well as a democracy and did not need a single team leader. This allowed everyone to have input on every aspect of the project as we went along. However, we agree that a better understanding of what was required would have helped us to see what was going to be needed in each section.
+                We cooperated well as a team, rotating speaking roles and being respectful of each other's ideas. We functioned well as a democracy without the need for a single leader, which allowed everyone to have input on every aspect of the project. However, we agree that a better understanding of what was required would have helped us to see what was needed in each section.
               </p>
               <img src={GITHUB}></img>
               <p>
-                We were able to learn new skills such as using GitBash and React, which made tracking and fixing errors easier. We are proud of what the team has achieved throughout this assignment, both in terms of knowledge gained and skills learned. We believe that the Git commits are an excellent reflection of the team's work, with all our information and data being uploaded after the site's main design was established.
+                We were able to learn new skills such as using GitBash and React, which made tracking and fixing errors easier. We are proud of what the team has achieved throughout this assignment, both in terms of knowledge gained and skills learned. However, we want to note that the GitHub commits did not accurately represent the distribution of work, as it does not account for the amount of time and effort the team put into the content. 
               </p><br></br>
               <p>
-                Overall, we have had a positive experience working together as a team. We were able to work well together despite the challenges we faced and were able to learn new skills and knowledge throughout the process. We are looking forward to continuing to work together in the future and achieving even more success.
+                Overall, we had a positive experience working together as a team. We were able to work well together despite the challenges we faced and were able to learn new skills and knowledge throughout the process. We are looking forward to continuing to work together in the future and achieving even more success.
               </p>
             </div>
         </div>
