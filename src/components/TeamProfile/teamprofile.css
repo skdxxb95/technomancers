@@ -2,21 +2,25 @@
 /*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
 /*----DON'T EDIT THIS UNLESS YOU'RE TRYING TO CHANGE THE LAYOUT/THEME----*/
 
-
 .teamprofile-content {
     width: var(--container-width-lg);
     margin: auto;
     font-size: 17px;
     min-height: calc(100vh - 50px - 50px);
-    display: grid;
-    row-gap: 30px;
-    padding-top: 30px;
 }
 
-.heading {
-    margin: auto;
-    padding: 15px 20px;
-    text-align: center;
+.teamprofile-content img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    border-radius: 0.5rem;
+    border-color: var(--color-white);
+}
+
+.teamprofile-body h3 {
+    padding-bottom: 1rem;
 }
 
 .teamprofile-content h1 {
@@ -24,29 +28,30 @@
     text-align: center;
 }
 
-.teamprofile-content h2 {
-    font-size: 30px;
-    text-align: center;
-}
-
 .teamprofile-content h5 {
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
-.teamprofile-content p {
-    display: grid;
+.teamprofile-content h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.teamprofile-content > div {
     color: var(--color-white);
     background: var(--color-primary-variant);
     padding: 1rem;
     border: 1px solid transparent;
     border-radius: 1rem;
     border-color: var(--color-primary);
+    margin-bottom: 3rem;
 }
 
-.teamprofile-content .avatar {
-    width: 100%;
-    height: auto;
-    max-width: 150px;
-    margin: auto;
+.teamprofile-body ul {
+    padding-left: 3rem;
+}
+
+.teamprofile-references p {
+    margin-top: 2rem;
 }
