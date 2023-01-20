@@ -19,7 +19,7 @@ Sam K - Business Improvement Specialist (Specialisation of Management Consultant
 Brodie - Senior .NET Developer (Specialisation of Developer Programmer). (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 Sam B- Full Stack Developer (Specialisation of Developer Programmer). (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
 Ally - ICT Business/Systems Analyst. (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
-Damian - Cyber Security Analyst. (Specialisation of ICT Security) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)<br></br><br></br>
+Damian - Cyber Security Analyst. (Specialisation of ICT Security) (Australian Government - Jobs and Skills, 2022) (Australian Government, 2021)
 
           <br></br>
           </p>
@@ -57,7 +57,6 @@ Damian - Cyber Security Analyst. (Specialisation of ICT Security) (Australian Go
             <li>Experience interpreting licensing terms and conditions (ITAM)</li>
             <li>ITIL, ITAM, and/or SAM training/certification </li>          
           </ul>
-          <br></br><br></br>
           </p>
           <br></br><br></br>
           <p>              
@@ -94,7 +93,6 @@ Damian - Cyber Security Analyst. (Specialisation of ICT Security) (Australian Go
             <li>node.js.</li>
             <li>Dynamic 365.</li>
           </ol>
-          <br /><br />
           </p>
           <br /><br />
           <p>
@@ -138,12 +136,11 @@ Damian - Cyber Security Analyst. (Specialisation of ICT Security) (Australian Go
            <b>Damian:</b><br /><q>After trawling through more webpages than I care to count and reading more in the last 2 weeks then I have in the last 2 years (and that is a lot) I am not going to change my opinion on my chosen ideal job. It has however presented several options and steppingstones to my ideal job. And Highlighted a few extra skills I should acquire on the journey.</q><br /><br />
            <b>Sam B:</b><br /><q>As someone who has recently completed their studies in cybersecurity, I have made the decision to further my education and skills in software development by enrolling in a Bachelor of IT program at RMIT. Both fields have always interested me, and I believe that combining my knowledge and skills in both areas will make me a valuable asset in the workforce. After researching data from Burning Glass, I am even more certain that pursuing a career in software development with a focus on cybersecurity is the right path for me. In today's workforce, it is crucial to have a diverse range of skills and knowledge, and I am confident that my background in cybersecurity and my interest in software development will make me an asset to any organization. To ensure that I am providing the best possible service to my future clients or employers, I am committed to continuing my education and staying up to date on the latest developments and trends in both fields.</q><br /><br />
            <b>Sam K:</b><br /><q>After looking into burning glass data, I can safely say that my ideal job will be remaining the same, as it is one that I hold close to my goals in life, while my ideal job has not changed, the option to further expand my knowledge in other areas has become apparent with the information provided about burning glass data. As stated above, any form of change to my ideal career path would be at most only very minor.</q><br /><br />
-           <b>Sarah:</b><br /><q>My opinion of my ideal job has not changed. The role’s skill set will continue to grow into the future as a required and in demand role in any industry, not just health care. This information assisted in understanding the skill areas that I will need to expand on.</q><br /><br />
+           <b>Sarah:</b><br /><q>My opinion of my ideal job has not changed. The role’s skill set will continue to grow into the future as a required and in demand role in any industry, not just health care. This information assisted in understanding the skill areas that I will need to expand on.</q>
           </p>
           <br /><br />
           <p>
-            <h3>Bibliography</h3>
-            <br /><br />            
+            <h3>References</h3>           
 Australian Government - Jobs and Skills. 2022. Australian Skills Classification. Jobsandskills.gov.au. [Online] 2022. [Cited: 01 04, 2023.] https://www.jobsandskills.gov.au/australian-skills-classification#occupations~2611. ANZSCO 224711. —. 2022. <br /><br />
 Australian Skills Classification. Jobsandskills.gov.au. [Online] 2022. [Cited: 01 04, 2023.] https://www.jobsandskills.gov.au/australian-skills-classification#occupations~1351. ANZSCO 1351.<br /><br />
 Australian Government - Jobs and SKills. 2022. Australian Skills Classification. Jobs And Skills - Cyber Security Analyst. [Online] 2022. [Cited: 01 03, 2023.] https://www.jobsandskills.gov.au/australian-skills-classification#occupations~262116. ANZSCO 262116.<br /><br />
@@ -153,7 +150,7 @@ Australian Government. 2021. Developer Programmers. Labour Market Insights. [Onl
 ICT Business Analysts. Labour Market Insights. [Online] 09 10, 2021. [Cited: 01 15, 2023.] https://labourmarketinsights.gov.au/occupation-profile/business-analysts-ict?occupationCode=261111. 261111.<br /><br /> 
 ICT Manager. Labour Market Inisghts. [Online] 09 10, 2021. [Cited: 01 15, 2023.] https://labourmarketinsights.gov.au/occupation-profile/ict-managers?occupationCode=1351. 1351.<br /><br />
 ICT Security. Labour Market Insights. [Online] 09 10, 2021. [Cited: 01 15, 2023.] https://labourmarketinsights.gov.au/occupation-profile/ict-security-specialists?occupationCode=262112. 262112.<br /><br />
-Australian pissatn. 2021. suckit. labour market insigfht. [Online] 09 10, 2021. [Cited: 01 15, 2023.] labourmarketinsights.com. 654324.<br /><br />
+Australian pissatn. 2021. suckit. labour market insigfht. [Online] 09 10, 2021. [Cited: 01 15, 2023.] labourmarketinsights.com. 654324.
           </p>
           {/*------ THIS IS WHERE YOU STOP ------*/}
           {/*------ THIS IS WHERE YOU STOP ------*/}

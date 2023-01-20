@@ -62,7 +62,7 @@ img {
     width: var(--container-width-lg);
     margin: 4.5rem auto;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 45% 45%;
     gap: 10%;
     min-height: calc(100vh - 150px - 50px);
 }
